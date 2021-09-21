@@ -1,5 +1,9 @@
 div.archive__item-body{
   border: 2px solid black;
+  border-radius: 20px;
+  padding-top: 10px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   
 }
 
@@ -243,10 +247,14 @@ figure {
   .fluid-width-video-wrapper {
     margin-bottom: 1em;
   }
+  
+  .feature_row_img{
+    border-radius: 20px !important;
+  }
 
   img {
     width: 100%;
-    border-radius: $border-radius;
+    // border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
   }
