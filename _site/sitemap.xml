@@ -12,4 +12,8 @@
 <url>
 <loc>http://localhost:4000/open.control/ressources/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/open.control/ressources/user_manual.html</loc>
+<lastmod>2021-09-21T18:08:30+02:00</lastmod>
+</url>
 </urlset>
