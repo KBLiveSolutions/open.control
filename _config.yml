@@ -19,14 +19,14 @@ locale                   : "en-US"
 title                    : "open·control"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "PAG"
+name                     : "KB Live Solutions"
 description              : "Customizable Open Source Control Surface for Ableton Live"
 url                      : "https://kblivesolutions.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/open.control" # the subpath of your site, e.g. "/blog"
 repository               : "kblivesolutions/open.control" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "assets/images/title-logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "assets/images/title-logo.png" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           :  # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 github: [metadata]
 words_per_minute         : 200
@@ -79,9 +79,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : kblivesolutions
 facebook:
-  username               :
+  username               : kblivesolutions
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -102,18 +102,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "KB Live Solutions"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
-  email            :
+  email            : contact@kblivesolutions.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "contact@kblivesolutions.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://kblivesolutions.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -132,22 +132,22 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: https://twitter.com/Krazy_Baldhead
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://www.facebook.com/kblivesolutions
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://github.com/KBLiveSolutions/
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
+    #   # url:
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
+    #   # url:
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url:
 
 
 # Reading Files
