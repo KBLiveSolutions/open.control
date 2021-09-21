@@ -2,4 +2,4 @@
 layout: single
 ---
 
-purchase
+Available on Kickstarter
