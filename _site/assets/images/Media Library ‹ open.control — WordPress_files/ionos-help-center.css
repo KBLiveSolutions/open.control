@@ -1,0 +1,23 @@
+body {
+    display: block;
+}
+
+body.oao-pi-flyin .oao-pi-overlay-container {
+    z-index: 20000;
+    margin-top: 32px;
+}
+
+.help-center-article-element {
+    margin-left: 12px;
+    text-decoration: none;
+}
+
+.exos-icon {
+    font-family: exos-icon-font;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.exos-icon-help-18::before {
+    content: "\E642";
+}

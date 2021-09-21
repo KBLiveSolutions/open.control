@@ -1,0 +1,45 @@
+.eihe-pro-prepare {
+    line-height:1.5;
+    text-align:center;
+}
+.elementor-panel .eihe-pro-prepare a {
+    background-color: #fcb92c;
+    -webkit-box-shadow: 0 0 1px rgba(0,0,0,.1), 0 2px 2px rgba(0,0,0,.1);
+    box-shadow: 0 0 1px rgba(0,0,0,.1), 0 2px 2px rgba(0,0,0,.1);
+    color: white;
+    padding: 8px 7px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-bottom: 10px;
+    opacity: 1;
+}
+.elementor-panel .eihe-pro-prepare a sup {
+    font-size: 60%;
+}
+.elementor-panel .eihe-pro-prepare a:hover {
+    color: white;
+    opacity: 0.92;
+}
+.eihe-pro-prepare div {
+    font-size: 16px;
+}
+
+.eihe-notice {
+    padding-bottom: 10px;
+    min-height: 86px;
+}
+
+.eihe-notice .eihe-done {
+    position: absolute;
+    top: 9px;
+    right: 35px;
+    cursor: pointer;
+    background-color: white;
+}
+
+.eihe-notice .eihe-iconimg {
+    float: left;
+    margin: 10px 10px 10px 0;
+    max-width: 68px;
+    border-radius: 5px;
+}

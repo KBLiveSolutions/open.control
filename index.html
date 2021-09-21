@@ -2,7 +2,7 @@
 layout: splash
 classes: wide
 
-feature_row:
+feature_row1:
 - image_path: /assets/images/Maker.jpeg
   title: "Pocket"
   excerpt: "**Desktop version**
@@ -25,6 +25,42 @@ feature_row:
     Includes Board + Components</p>"
   
 
+feature_row:
+- image_path: /assets/images/Maker.jpeg
+  title: "Pocket"
+  excerpt: "**Desktop version**
+
+  <p>6 Buttons and 2 Knobs<br>
+    Optional 3D-printed Cover</p>"
+- image_path: /assets/images/Maker.jpeg
+  title: "Boxed"
+  excerpt: "**Use pedals instead of buttons**
+
+  <p>6 Jack inputs for Switch Pedals<br>
+    2 Jack Inputs for Expression Pedals<br>
+    Robust plastic enclosure</p>"
+- image_path: /assets/images/Maker.jpeg
+  title: "Maker"
+  excerpt: "**Create your own enclosure**
+
+  <p>6 Soldering Slots for Switches<br>
+    2 Soldering Slots for variable Resistors<br>
+    Includes Board + Components</p>"
+
+feature_row2:
+- image_path: /assets/images/remote_midi.png
+  title: "Standard USB"
+  excerpt: "Simply connect open·control to your computer using a standard USB cable."
+- image_path: /assets/images/remote_midi.png
+  title: "Remote Control"
+  excerpt: "For longer disctance, you can use the MIDI In and Out ports. The power will be supllied by the USB port."
+- image_path: /assets/images/external_midi.png
+  title: "External MIDI"
+  excerpt: "Use your own equipment to control open·control. <br>
+  Just plug your gear to the MIDI In port, set the controls on the editor and your gear will trigger the corresponding buttons. <br>
+  Any MIDI hardware that sends Notes or Control Changes can be used (for instance FCB1010, SPD-SX...)."
+
+
 accordion: 
   - title: Display
     content: Scene Name · Track Name · Marker Name · Variation Number · Looper Number
@@ -43,7 +79,24 @@ accordion:
   - title: Knobs
     content: "<br> <b><u>Global</u></b> : Last Selected Parameter · Global Groove Amount<br>
     <br> <b><u>Selected Track</u></b> : Send A · Send B · Selected Device Parameters 1 & 2 · Device 1 Parameters 1 & 2 · Looper Device 1 Parameters 1 & 2"
+
+gallery:
+  - url: /assets/images/exemple-opencontrol-arrangement-1024x729.png
+    image_path: /assets/images/exemple-opencontrol-arrangement-1024x729.png
+    title: "Arrangement actions"
+  - url: /assets/images/exemple-opencontrol-scenes-1024x730.png
+    image_path: /assets/images/exemple-opencontrol-scenes-1024x730.png
+    title: "Scene actions"
+  - url: /assets/images/exemple-opencontrol-tracks-1024x731.png
+    image_path: /assets/images/exemple-opencontrol-tracks-1024x731.png
+    title: "Track actions"
+  - url: /assets/images/exemple-opencontrol-variations-1024x730.png
+    image_path: /assets/images/exemple-opencontrol-variations-1024x730.png
+    title: "Variation actions"
+
+
 ---
+
 <html>
     <br>
     <div >
@@ -75,35 +128,37 @@ accordion:
 <br>
 <h1>
     Create your own layout
-
 </h1>
 
 <h3>
-    Each element of the controller can be changed instantly with an easy to use Web Editor.
+    Each element of the controller can be changed instantly with an easy to use Web Editor.<br>
+    You can creaate up to 3 pages of controls.
 </h3>
 
 
 <br>
-<img src="./docs/images/image1.png"  class="my_header"/>
+<a href="https://kblivesolutions.github.io/open.control-editor/" target="_blank">
+<img src="./assets/images/editor_m4l.png" class="my_header"/></a>
 <br>
-<h2>
-    Available Actions
-</h2>
-<br>
+<h3>
+  Available Actions
+</h3>
 <br>
 </html>
 {% include accordion.html %}
 <html>
-<br>
 <h3>
     Layout Examples
 </h3>
-<div>
-galerie d'images de layouts
+<div class="my_header">{% include gallery layout="half" %}
 </div>
 <br>
 <h1>3 MIDI modes</h1>
+<h3>open·control has mini-jack MIDI In and Out ports, making it possible to connect it in 3 different ways. 
+</h3>
 <br>
+
+{% include feature_row id="feature_row2" %}
 
 <h1>Specifications</h1>
 <br>

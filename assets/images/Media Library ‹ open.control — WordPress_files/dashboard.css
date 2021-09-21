@@ -1,0 +1,288 @@
+.dashboard-row {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: stretch;
+  margin: 0 -8px;
+}
+.dashboard-row .dashboard-row {
+  margin: 0;
+}
+.assistant-dashboard.dashboard-row.updated {
+  border: 0 none;
+  box-shadow: none;
+  background: transparent none;
+  margin: 0 -8px;
+  padding: 0;
+}
+.dashboard-column {
+  margin: 8px;
+}
+.dashboard-column.dashboard-column4 {
+  flex-grow: 4;
+}
+.dashboard-column.dashboard-column3 {
+  flex-grow: 3;
+}
+.dashboard-column.dashboard-column2 {
+  flex-grow: 2;
+}
+.dashboard-column.dashboard-column1 {
+  flex-grow: 1;
+}
+.dashboard-column .dashboard-column {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.assistant-dashboard-panel {
+  padding: 0;
+}
+.assistant-dashboard-panel .inside {
+  padding: 12px;
+}
+.assistant-dashboard-panel .welcome-icon::before {
+  vertical-align: middle;
+}
+.assistant-dashboard-panel a.notice-dismiss {
+  padding-top: 3px;
+}
+.assistant-dashboard-panel a.notice-dismiss::before {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 3px 3px 0;
+}
+.assistant-dashboard-panel a.button.updated-message.failed::before {
+  color: #dc3232;
+  content: "\f534";
+}
+.assistant-dashboard-panel#assistant-editor-info-panel {
+  flex-basis: 270px;
+  max-width: 450px;
+}
+.assistant-dashboard-panel#assistant-editor-info-panel .inside {
+  padding-top: 25px;
+  padding-bottom: 52px;
+}
+.assistant-dashboard-panel#assistant-editor-info-panel figure.gutenberg-editor-preview {
+  float: left;
+  margin: 25px 12px 25px 0;
+  max-width: 40%;
+}
+.assistant-dashboard-panel#assistant-editor-info-panel figure.gutenberg-editor-preview img {
+  max-width: 100%;
+}
+.assistant-dashboard-panel#assistant-editor-info-panel ul.assistant-editor-links {
+  margin: 25px 0;
+}
+.assistant-dashboard-panel#assistant-editor-info-panel ul.assistant-editor-links li {
+  line-height: 1.5em;
+  margin-bottom: 12px;
+}
+.assistant-dashboard-panel#assistant-editor-info-panel a.button.install-plugin {
+  position: absolute;
+  bottom: 25px;
+  left: 12px;
+}
+.assistant-dashboard-panel#assistant-german-market-panel {
+  background-color: #fafafa;
+  flex-basis: 270px;
+  max-width: 450px;
+}
+.assistant-dashboard-panel#assistant-german-market-panel .inside {
+  padding: 0 12px 62px;
+}
+.assistant-dashboard-panel#assistant-german-market-panel a.notice-dismiss {
+  color: #999999;
+}
+.assistant-dashboard-panel#assistant-german-market-panel a.notice-dismiss::before {
+  color: #999999;
+}
+.assistant-dashboard-panel#assistant-german-market-panel a.notice-dismiss:hover {
+  color: #cccccc;
+}
+.assistant-dashboard-panel#assistant-german-market-panel a.notice-dismiss:hover::before {
+  color: #cc0000;
+}
+.assistant-dashboard-panel#assistant-german-market-panel figure.full-width {
+  margin: 0 -12px;
+  min-height: 260px;
+}
+.assistant-dashboard-panel#assistant-german-market-panel figure.full-width img {
+  width: 100%;
+}
+.assistant-dashboard-panel#assistant-german-market-panel .dashboard-panel-title {
+  padding: 12px;
+  margin-right: 12px;
+  border: 1px solid #e5e5e5 !important;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+  background: #ffffff;
+  position: absolute;
+  bottom: 12px;
+}
+.assistant-dashboard-panel#assistant-german-market-panel .dashboard-panel-title h2 {
+  padding: 0;
+  margin: 0 0 16px 0;
+  font-size: 20px;
+  line-height: 25px;
+}
+.assistant-dashboard-panel#assistant-german-market-panel a.learn-more-link {
+  color: #999999;
+  text-decoration: underline;
+  white-space: nowrap;
+  margin: 0 8px;
+}
+.assistant-dashboard-panel#assistant-german-market-panel a.learn-more-link:hover {
+  color: #b0b0b0;
+}
+.assistant-dashboard-panel#assistant-welcome-panel {
+  flex-basis: 400px;
+}
+.assistant-dashboard-panel#assistant-help-panel {
+  flex-basis: 570px;
+}
+.assistant-dashboard-panel#assistant-help-panel .dashboard-row {
+  flex-wrap: nowrap;
+}
+.assistant-dashboard-panel#assistant-welcome-panel .branded-wordpress-column,
+.assistant-dashboard-panel#assistant-help-panel .branded-wordpress-column {
+  text-align: center;
+  margin-left: 0;
+  max-width: 200px;
+  flex-basis: 100px;
+}
+.assistant-dashboard-panel#assistant-welcome-panel .branded-wordpress-column .inside,
+.assistant-dashboard-panel#assistant-help-panel .branded-wordpress-column .inside {
+  padding: 25px 25px 20px 25px;
+}
+.assistant-dashboard-panel#assistant-welcome-panel .branded-wordpress-column img,
+.assistant-dashboard-panel#assistant-help-panel .branded-wordpress-column img {
+  max-width: 100%;
+}
+.assistant-dashboard-panel#assistant-welcome-panel .branded-wordpress-column .branded-wordpress-img,
+.assistant-dashboard-panel#assistant-help-panel .branded-wordpress-column .branded-wordpress-img {
+  margin-bottom: 20px;
+}
+.assistant-dashboard-panel#assistant-welcome-panel .assistant-preview-text,
+.assistant-dashboard-panel#assistant-help-panel .assistant-preview-text {
+  flex-basis: 310px;
+}
+.assistant-dashboard-panel#assistant-welcome-panel .assistant-preview-text .inside,
+.assistant-dashboard-panel#assistant-help-panel .assistant-preview-text .inside {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.assistant-dashboard-panel#assistant-welcome-panel .assistant-preview-text .button,
+.assistant-dashboard-panel#assistant-help-panel .assistant-preview-text .button {
+  padding: 12px 20px;
+}
+.assistant-dashboard-panel#assistant-welcome-panel .assistant-preview-text .button::before,
+.assistant-dashboard-panel#assistant-help-panel .assistant-preview-text .button::before {
+  padding: 0 6px 0 0;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  font-size: 20px;
+  line-height: 1;
+  font-family: dashicons;
+  text-decoration: none;
+  font-weight: 400;
+  font-style: normal;
+  vertical-align: middle;
+  text-align: center;
+  transition: color 0.1s ease-in 0;
+}
+.assistant-dashboard-panel#assistant-welcome-panel .assistant-preview-text .button.assistant-get-started-website::before,
+.assistant-dashboard-panel#assistant-help-panel .assistant-preview-text .button.assistant-get-started-website::before {
+  content: "\f319";
+}
+.assistant-dashboard-panel#assistant-welcome-panel .assistant-preview-text .button.button.assistant-get-started-eshop::before,
+.assistant-dashboard-panel#assistant-help-panel .assistant-preview-text .button.button.assistant-get-started-eshop::before {
+  content: "\f174";
+}
+.assistant-dashboard-panel#assistant-welcome-panel .assistant-wordpress-help,
+.assistant-dashboard-panel#assistant-help-panel .assistant-wordpress-help {
+  flex-basis: 440px;
+}
+.assistant-dashboard-panel#assistant-welcome-panel .assistant-wordpress-help .inside,
+.assistant-dashboard-panel#assistant-help-panel .assistant-wordpress-help .inside {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.assistant-dashboard-panel#assistant-welcome-panel .assistant-wordpress-help .assistant-links,
+.assistant-dashboard-panel#assistant-help-panel .assistant-wordpress-help .assistant-links {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.assistant-dashboard-panel#assistant-welcome-panel .assistant-wordpress-help .assistant-links .assistant-links-start,
+.assistant-dashboard-panel#assistant-help-panel .assistant-wordpress-help .assistant-links .assistant-links-start,
+.assistant-dashboard-panel#assistant-welcome-panel .assistant-wordpress-help .assistant-links .assistant-links-advanced,
+.assistant-dashboard-panel#assistant-help-panel .assistant-wordpress-help .assistant-links .assistant-links-advanced {
+  flex-grow: 1;
+  flex-basis: 200px;
+  min-width: 200px;
+  max-width: 300px;
+}
+.assistant-dashboard-panel#assistant-welcome-panel .assistant-wordpress-help .assistant-links .assistant-links-start ul li,
+.assistant-dashboard-panel#assistant-help-panel .assistant-wordpress-help .assistant-links .assistant-links-start ul li,
+.assistant-dashboard-panel#assistant-welcome-panel .assistant-wordpress-help .assistant-links .assistant-links-advanced ul li,
+.assistant-dashboard-panel#assistant-help-panel .assistant-wordpress-help .assistant-links .assistant-links-advanced ul li {
+  margin: 0;
+  line-height: 1.5;
+  padding-bottom: 5px;
+}
+.assistant-dashboard-panel#assistant-welcome-panel .assistant-wordpress-help .assistant-links .assistant-links-start ul li a,
+.assistant-dashboard-panel#assistant-help-panel .assistant-wordpress-help .assistant-links .assistant-links-start ul li a,
+.assistant-dashboard-panel#assistant-welcome-panel .assistant-wordpress-help .assistant-links .assistant-links-advanced ul li a,
+.assistant-dashboard-panel#assistant-help-panel .assistant-wordpress-help .assistant-links .assistant-links-advanced ul li a {
+  padding: 0;
+}
+.assistant-dashboard-panel#assistant-welcome-panel .assistant-wordpress-help .assistant-links .assistant-links-start,
+.assistant-dashboard-panel#assistant-help-panel .assistant-wordpress-help .assistant-links .assistant-links-start {
+  margin-right: 16px;
+}
+#assistant_blog_feed_widget .inside {
+  padding: 0;
+  margin: 0;
+}
+#assistant_blog_feed_widget ul {
+  margin: 0;
+}
+#assistant_blog_feed_widget ul p {
+  margin: 0.4em 0;
+}
+#assistant_blog_feed_widget ul li {
+  margin: 0;
+}
+#assistant_blog_feed_widget ul li.feed-item {
+  font-size: 13px;
+  border-bottom: 1px solid #eee;
+  padding: 10px 10px 6px;
+}
+#assistant_blog_feed_widget ul li.feed-item:hover {
+  background-color: #f9fafb;
+}
+#assistant_blog_feed_widget ul li.feed-item a {
+  font-size: 13px;
+  color: #23282d;
+}
+#assistant_blog_feed_widget ul li.feed-item a.news-title {
+  font-size: 14px;
+}
+#assistant_blog_feed_widget ul li.no-item,
+#assistant_blog_feed_widget ul li.more-items {
+  padding: 10px;
+}
+@media all and (max-width: 419px), all and (min-width: 420px) and (max-width: 959px) {
+  .assistant-dashboard-panel#assistant-welcome-panel .branded-wordpress-column,
+  .assistant-dashboard-panel#assistant-help-panel .branded-wordpress-column {
+    display: none;
+  }
+  .assistant-dashboard-panel#assistant-welcome-panel .assistant-wordpress-help .assistant-links .assistant-links-start ul li,
+  .assistant-dashboard-panel#assistant-help-panel .assistant-wordpress-help .assistant-links .assistant-links-start ul li,
+  .assistant-dashboard-panel#assistant-welcome-panel .assistant-wordpress-help .assistant-links .assistant-links-advanced ul li,
+  .assistant-dashboard-panel#assistant-help-panel .assistant-wordpress-help .assistant-links .assistant-links-advanced ul li {
+    font-size: 13px;
+    line-height: 1.4;
+  }
+}
