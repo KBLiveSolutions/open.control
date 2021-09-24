@@ -1,14 +1,41 @@
 # main links
 main:
-  # - title: "Quick-Start Guide"
-  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Purchase"
     url: /purchase/
   - title: "Ressources"
     url: /ressources/
   - title: "About"
     url: /about/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  
+
+sidebar:
+  - title: User Manual
+    children: 
+      - title: "View"
+        url: /user_manual/
+  - title:  Controller Web Editor
+    children: 
+      - title: "Access"
+        url: https://kblivesolutions.github.io/open.control-editor/
+      - title: "Download"
+        url: https://github.com/KBLiveSolutions/open.control-editor/archive/refs/heads/main.zip
+      - title: "View source on Github"
+        url: https://kblivesolutions.github.io/open.control-editor/
+  - title: Ableton Live Remote Script
+    children: 
+      - title: "Download"
+        url: https://github.com/KBLiveSolutions/open.control-script/archive/refs/heads/main.zip
+      - title: "View source on Github"
+        url: https://github.com/KBLiveSolutions/open.control-script
+  - title: Arduino Firmware
+    children: 
+      - title: "Download"
+        url: https://github.com/KBLiveSolutions/open.control-firmware/archive/refs/heads/main.zip
+      - title: "View source on Github"
+        url: https://github.com/KBLiveSolutions/open.control-firmware
+  - title: Reference Guide
+    children: 
+      - title: "T.B.A"
+  - title: 3D Printed Cover
+    children: 
+      - title: "T.B.A"
