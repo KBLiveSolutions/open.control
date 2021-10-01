@@ -24,9 +24,9 @@ sidebar:
   - title: Ableton Live Remote Script
     children: 
       - title: "Download"
-        url: https://github.com/KBLiveSolutions/open.control-script/archive/refs/heads/main.zip
+        url: https://github.com/KBLiveSolutions/open.control-Remote-Script/archive/refs/heads/main.zip
       - title: "View source on Github"
-        url: https://github.com/KBLiveSolutions/open.control-script
+        url: https://github.com/KBLiveSolutions/open.control-Remote-Script
   - title: Arduino Firmware
     children: 
       - title: "Download"
