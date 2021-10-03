@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Get Started"
+    url: /get_started/
   - title: "Purchase"
     url: /purchase/
   - title: "Ressources"
