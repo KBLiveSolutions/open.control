@@ -1,7 +1,8 @@
 ---
 layout: single
-permalink: /purchase/
+permalink: /get_started/
 ---
 <html>
-<br><h1>Available soon on Kickstarter</h1>
+<br><h1>Get Started</h1>
+First, 
 </html>

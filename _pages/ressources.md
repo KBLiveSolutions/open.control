@@ -5,10 +5,13 @@ sidebar:
   nav: "sidebar"
 ---
 
+<br>
 <div>
-<h1> Video and image content will be added soon.</h1>
+<h1> Watch a demo of open·control</h1>
 <br>
 </div>
+
+{% include video id="XDOy5wNA_7E" provider="youtube" %}
 <!-- 
 <div>
 <li> you can see the <a href="./user_manual.html">user manual</a>.
