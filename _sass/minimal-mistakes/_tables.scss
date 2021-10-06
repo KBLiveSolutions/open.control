@@ -37,3 +37,60 @@ td,
 th {
   vertical-align: middle;
 }
+
+table.action_table {
+  color: white;
+text-align: center;
+border-collapse:  separate;
+background: rgb(0, 0, 0);
+border: 1px none rgb(0, 0, 0);
+  border-radius: 12px;
+// height: 18px;
+width: 800px;
+/* padding-left: 5px;
+padding-right: 5px; */
+margin-left: auto;
+margin-right: auto;
+}
+
+table.action_table td{
+  color: rgb(0, 0, 0);
+text-align: center;
+border-collapse:  separate;
+background: rgb(207, 207, 207);
+border: 1px none rgb(0, 0, 0);
+height: 18px;
+width: 800px;
+// border-radius: 12px;
+/* padding-left: 5px;
+padding-right: 5px; */
+padding-bottom: 10px;
+}
+
+table.action_table td.light{
+  color: rgb(0, 0, 0);
+text-align: center;
+border-collapse:  separate;
+background: rgb(247, 247, 247);
+border: 1px none rgb(0, 0, 0);
+height: 18px;
+width: 800px;
+// border-radius: 12px;
+/* padding-left: 5px;
+padding-right: 5px; */
+padding-bottom: 10px;
+}
+
+table.action_table th{
+  font-size: larger;
+  color: white;
+text-align: center;
+border-collapse:  separate;
+background: rgb(0, 0, 0);
+border: 1px none rgb(0, 0, 0);
+height: 24px;
+width: 100%;
+/* padding-left: 5px;
+padding-right: 5px; */
+padding-bottom: 10px;
+}
