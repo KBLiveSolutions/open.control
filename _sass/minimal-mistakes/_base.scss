@@ -45,7 +45,6 @@ h1 {
   font-size: $h-size-1;
   text-align: center;
   margin-top: 0;
-  // width: 50%;
    width:100%;
    max-width:800px;
   margin-left: auto;
@@ -53,13 +52,26 @@ h1 {
   background-color: rgb(0, 0, 0);
   color: rgb(255, 255, 255);
   border: 5px solid rgb(0, 0, 0);
-  // border-top: 2px solid rgb(172, 172, 172);
   font-weight: bold;
   padding-top: 15px;
   padding-bottom: 15px;
   border-radius: 20px;
-  // padding-left: 20%;
-  // padding-right: 20%;
+}
+.bis {
+  font-size: $h-size-1;
+  text-align: center;
+  margin-top: 0;
+  //  width:100%;
+  //  max-width:800px;
+  margin-left: auto;
+  margin-right: auto;
+  // background-color: rgb(54, 102, 173);
+  color: rgb(255, 255, 255);
+  border: 5px solid rgb(0, 0, 0);
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 20px;
 }
 
 h2 {
