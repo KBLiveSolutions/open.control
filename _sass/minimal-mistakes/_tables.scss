@@ -53,8 +53,37 @@ margin-left: auto;
 margin-right: auto;
 }
 
+#display_table th{
+  background: purple;
+}
+#display_table {
+  background: purple;
+}
+
+#leds_table th{
+  background: rgb(16, 106, 112);
+}
+#leds_table {  
+  background: rgb(16, 106, 112);
+}
+
+#buttons_table th{
+  background: rgb(0, 128, 117);
+}
+#buttons_table {  
+  background: rgb(0, 128, 117);
+}
+
+#sliders_table th{
+  background: rgb(0, 34, 128);
+}
+#sliders_table {  
+  background: rgb(0, 34, 128);
+}
+
+
 table.action_table td{
-  color: rgb(0, 0, 0);
+  color: rgb(16, 106, 112);
 text-align: center;
 border-collapse:  separate;
 background: rgb(207, 207, 207);
@@ -68,7 +97,7 @@ padding-bottom: 10px;
 }
 
 table.action_table td.light{
-  color: rgb(0, 0, 0);
+  color: rgb(16, 106, 112);
 text-align: center;
 border-collapse:  separate;
 background: rgb(247, 247, 247);
