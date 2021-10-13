@@ -45,6 +45,7 @@ gallery_maker:
 - Optional cover
 
 {% include gallery id="gallery_pocket" layout="full" %}
+<b>Dimensions:</b> 15 x 9 X 4 cm
 <a id="boxed"></a>
 <br>
 <br>
@@ -59,6 +60,7 @@ gallery_maker:
 - Robust plastic enclosure
 
 {% include gallery id="gallery_boxed" layout="full" %}
+<b>Dimensions:</b> 16 x 9.5 X 3.5 cm
 <a id="maker"></a>
 <br>
 <br>
@@ -72,3 +74,4 @@ gallery_maker:
 - USB (Socket provided)
 
 {% include gallery id="gallery_maker" layout="full" %}
+<b>Dimensions:</b> 15 x 9 X 4 cm
