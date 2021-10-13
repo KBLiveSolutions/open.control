@@ -34,7 +34,7 @@ gallery_maker:
   
 ---
 <!-- # <span class="bis"> Videos</span> -->
-## Pocket
+# Pocket
 
 - Bright LED Matrix display
 - 6 Buttons
@@ -47,7 +47,8 @@ gallery_maker:
 {% include gallery id="gallery_pocket" layout="full" %}
 <a id="boxed"></a>
 <br>
-##  Boxed
+<br>
+#  Boxed
 
 - Bright LED Matrix display
 - 6 Mono Jack input for Switch pedals (sustain type)
@@ -60,7 +61,8 @@ gallery_maker:
 {% include gallery id="gallery_boxed" layout="full" %}
 <a id="maker"></a>
 <br>
-## Maker
+<br>
+# Maker
 
 - Bright LED Matrix display
 - 6 Soldering Slots for Buttons/Switches (Mono jacks provided)
