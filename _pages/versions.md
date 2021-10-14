@@ -25,12 +25,12 @@ gallery_boxed:
   image_path: /assets/images/boxed_full_hiQ.jpg
 
 gallery_maker:
+- url: /assets/images/maker_components.jpg
+  image_path: /assets/images/maker_components.jpg
 - url: /assets/images/red_maker2.jpg
   image_path: /assets/images/red_maker2.jpg
 - url: /assets/images/split.jpg
   image_path: /assets/images/split.jpg
-- url: /assets/images/maker_components.jpg
-  image_path: /assets/images/maker_components.jpg
 
 gallery_cover:
 - url: /assets/images/Cover_PET.jpg
@@ -66,7 +66,7 @@ Produced and designed by Bruno Tognin. </p>
 
 <br>
 {% include gallery id="gallery_cover" layout="full" %}
-<p align=center>You can also print it yourself, you can find the files in the <a href="/ressources">Ressources</a> page.</p>
+<p align=center>You can also print it yourself, you can find the files in the <a href="../ressources">Ressources</a> page.</p>
 <br>
 
 <a id="boxed"></a>
