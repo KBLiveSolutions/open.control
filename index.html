@@ -56,7 +56,7 @@ feature_row2:
   Any MIDI hardware that sends Notes or Control Changes can be used (for instance FCB1010, SPD-SX...).</p>"
 
 
-gallery:
+gallery_examples:
 - url: /assets/images/scene_example.jpg
   image_path: /assets/images/scene_example.jpg
   title: "Scenes"
@@ -66,7 +66,10 @@ gallery:
 - url: /assets/images/arr_example.jpg
   image_path: /assets/images/arr_example.jpg
   title: "Arrangement"
-  
+
+gallery_looper:
+- image_path: /assets/images/looper.jpeg
+- image_path: /assets/images/opencontrol_box_small.jpg
 ---
 
 <html>
@@ -134,7 +137,7 @@ gallery:
 </p>
 <p align=center>Here are a few examples of configurations (click to enlarge).
 </p>
-{% include gallery %}
+{% include gallery id="gallery_examples" %}
 
 <p align=center>
   open·control being Open Source, you can adapt the code to your own needs.</p>
@@ -147,8 +150,25 @@ gallery:
 <br>
 
 {% include feature_row id="feature_row2" %}
+  <br><h1>
+    Looper control</h1>
+  <h3>Live's Looper has received special attention, since there are a handful of controllers that take care of it.</h3>
+    <p align=center>open·control detects any Looper that has (LOOPER) in its name. Then, you can go to the next and previous Looper and the LEDs will display the State of the currently selected Looper<br>
+    Another useful feature is that you can monitor the state of 6 Loopers simultaneously</p>
+  <br>
 
-<h1>
+  <div >
+    <img src="./assets/images/looper.png" class="my_header_2"/>
+
+</div>
+<br>
+<div >
+  <img src="./assets/images/opencontrol_box_small.jpg" class="my_header_2"/>
+
+</div>
+<br>
+  
+  <h1>
   Specifications</h1>
 <div class="specs">
 <b>Display:</b>
