@@ -3,18 +3,12 @@ layout: single
 permalink: /ressources/
 sidebar:
   nav: "sidebar"
-
-toc: true
-toc_label: "On this page"
-toc_icon: "cog"
 ---
 <!-- # <span class="bis"> Videos</span> -->
-## open·control demo
-{% include video id="XDOy5wNA_7E" provider="youtube" %}
-<br>
-<br>
 
-##  Available Actions
+<a id="available-actions"></a>
+
+#  Available Actions
 
 <table class="action_table" id="leds_table">
   <thead>
@@ -43,7 +37,7 @@ toc_icon: "cog"
       <td><b>Arrangement</b> : <br> Arrangement Rec* · Arrangement Loop* · Go to Prev/Next Marker · Add/Delete Marker · Loop to Next Marker · Punch In / Punch Out* · Jump to 1.1.1 · Back To Arrangement*</td>
 </tr>
   <tr>
-      <td class="light"><b>Scenes</b> : <br> Launch Scene* · Select Next/Prev Scene* · Session Record* · Insert Scene · Stop All Clips</td>
+      <td class="light"><b>Session</b> : <br> Session Record* · Launch Scene* · Select Next/Prev Scene* · Insert Scene · Stop All Clips</td>
   </tr>
   <tr>
       <td ><b>Tracks</b> : <br> Launch Clip* · Record Clip* · Find Next Empty Slot · Mute* · Solo* · Arm* · Stop · Select Prev/Next Track* · Add Audio/MIDI Track</td>
@@ -74,7 +68,3 @@ toc_icon: "cog"
   </tr>
 </tbody>
 </table>
-
-
-## Pictures
-
