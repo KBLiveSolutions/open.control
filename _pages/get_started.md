@@ -6,6 +6,8 @@ permalink: /get_started/
 
 # Thank you for purchasing open·control !
 
+### Here are a few steps that will get you started
+
 1. Create a folder named `Remote Scripts` in your Ableton User Library (you can find the location of the User Library in the "Library" tab of Live's Preferences).
 2. [Download](https://github.com/KBLiveSolutions/open.control-Remote-Script/archive/refs/heads/main.zip) the Control Surface script.
 3. Unzip the file, copy the folder `open_control` inside it and paste it into the `Remote Scripts` folder
