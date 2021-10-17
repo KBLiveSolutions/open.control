@@ -4,19 +4,18 @@ main:
   #   url: /get_started/
   - title: "3 Flavors"
     url: /versions/
-  - title: "Get it!"
-    url: /purchase/
   - title: "Ressources"
     url: /ressources/
   - title: "Forum"
     url: https://github.com/KBLiveSolutions/open.control/discussions
+  - title: "Order"
+    url: /purchase/
   - title: "About"
     url: /about/
   
 
 sidebar:
-  - title: "Forum"
-    url: https://github.com/KBLiveSolutions/open.control/discussions
+  - title: ""
   - title: User Manual
     children: 
       - title: "View"
@@ -28,7 +27,7 @@ sidebar:
       - title: "Download"
         url: https://github.com/KBLiveSolutions/open.control-editor/archive/refs/heads/main.zip
       - title: "View source on Github"
-        url: https://kblivesolutions.github.io/open.control-editor/
+        url: https://github.com/KBLiveSolutions/open.control-editor
   - title: Ableton Live Remote Script
     children: 
       - title: "Download"

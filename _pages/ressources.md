@@ -8,7 +8,7 @@ sidebar:
 
 <a id="available-actions"></a>
 
-#  Available Actions
+## List of Available Actions
 
 <table class="action_table" id="leds_table">
   <thead>
