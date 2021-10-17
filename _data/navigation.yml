@@ -2,7 +2,7 @@
 main:
   - title: "Get Started"
     url: /get_started/
-  - title: "3 Flavors"
+  - title: "Versions"
     url: /versions/
   - title: "Ressources"
     url: /ressources/
