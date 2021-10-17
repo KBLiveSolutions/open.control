@@ -1,7 +1,7 @@
 # main links
 main:
-  # - title: "Get Started"
-  #   url: /get_started/
+  - title: "Get Started"
+    url: /get_started/
   - title: "3 Flavors"
     url: /versions/
   - title: "Ressources"
