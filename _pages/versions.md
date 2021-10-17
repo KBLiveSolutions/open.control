@@ -2,7 +2,7 @@
 layout: single
 permalink: /versions/
 
-toc: true
+toc: false
 toc_label: "3 Versions"
 toc_icon: "cog"
 
@@ -50,9 +50,9 @@ gallery_cover:
 - 2 Knobs
 - MIDI In and Out
 - USB
-- [Optional cover](#cover)
+- Optional cover
 
-{% include gallery id="gallery_pocket" layout="full" %}
+{% include gallery id="gallery_pocket" %}
 <b>Dimensions:</b> 15 x 9 X 4 cm
 
 
@@ -65,7 +65,7 @@ This cover is made of <b>recycled bottles of water</b>.<br>
 Produced and designed by Bruno Tognin. </p>
 
 <br>
-{% include gallery id="gallery_cover" layout="full" %}
+{% include gallery id="gallery_cover" %}
 <p align=center>You can also print it yourself, you can find the files in the <a href="../ressources">Ressources</a> page.</p>
 <br>
 
@@ -83,7 +83,7 @@ Produced and designed by Bruno Tognin. </p>
 - USB
 - Robust plastic enclosure
 
-{% include gallery id="gallery_boxed" layout="full" %}
+{% include gallery id="gallery_boxed" %}
 <b>Dimensions:</b> 16 x 9.5 X 3.5 cm
 <a id="maker"></a>
 <br>
@@ -98,7 +98,7 @@ Produced and designed by Bruno Tognin. </p>
 - MIDI In and Out (Mini jacks provided)
 - USB (Socket provided)
 
-{% include gallery id="gallery_maker" layout="full" %}
+{% include gallery id="gallery_maker" %}
 <b>Dimensions:</b> 15 x 9 X 4 cm
 
 

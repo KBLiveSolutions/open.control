@@ -8,11 +8,15 @@ main:
     url: /purchase/
   - title: "Ressources"
     url: /ressources/
+  - title: "Forum"
+    url: https://github.com/KBLiveSolutions/open.control/discussions
   - title: "About"
     url: /about/
   
 
 sidebar:
+  - title: "Forum"
+    url: https://github.com/KBLiveSolutions/open.control/discussions
   - title: User Manual
     children: 
       - title: "View"
