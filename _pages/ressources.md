@@ -61,10 +61,15 @@ sidebar:
   </thead>
   <tbody>
   <tr>
-      <td class="light"><b>Global</b> : <br> Last Selected Parameter · Global Groove Amount</td>
+      <td class="light"><b>Global</b> : <br>
+    Last Selected Parameter · Global Groove Amount · Master Volume· Cue Volume · BPM +/- 1 · Scroll Scenes</td>
   </tr>
   <tr>
-      <td style="border-bottom-right-radius: 12px; border-bottom-left-radius: 12px;"><b>Selected Track</b> : <br> Send A · Send B · Selected Device Parameters 1 & 2 · Device 1 Parameters 1 & 2 · Looper Device 1 Parameters 1 & 2</td>
+      <td class="light"><b>Arrangement</b> : <br>
+    Skip Forward/Backward · Loop Position · Loop Length · Jump to Next/Prev Marker · Horizontal Zoom</td>
+  </tr>
+  <tr>
+      <td style="border-bottom-right-radius: 12px; border-bottom-left-radius: 12px;"><b>Selected Track</b> : <br> Volume · Pan · Send A · Send B · Selected Device Parameters 1 to 4 · Device 1 Parameters 1 to 4</td>
   </tr>
 </tbody>
 </table>
