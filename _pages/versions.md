@@ -47,7 +47,7 @@ gallery_cover:
 - Bright LED Matrix display
 - 6 Buttons
 - 6 RGB LEDs for visual feedback
-- 2 Knobs
+- 2 Endless Knobs with Push Buttons
 - MIDI In and Out
 - USB
 - Optional cover
@@ -61,7 +61,7 @@ gallery_cover:
 ## 3D Printed Cover
 
 <p align=center>A 3D printed cover for the Pocket version is available.<br>
-This cover is made of <b>recycled bottles of water</b>.<br>
+This cover is made of <b>recycled bottles</b>.<br>
 Produced and designed by Bruno Tognin. </p>
 
 <br>
@@ -79,6 +79,7 @@ Produced and designed by Bruno Tognin. </p>
 - 6 Mono Jack input for Switch pedals (sustain type)
 - 6 RGB LEDs for visual feedback
 - 2 Stereo Jack for Expression pedals
+- 2 Endless Knobs with Push Buttons (not shown on pictures)
 - MIDI In and Out
 - USB
 - Robust plastic enclosure
@@ -95,6 +96,7 @@ Produced and designed by Bruno Tognin. </p>
 - 6 Soldering Slots for Buttons/Switches (Mono jacks provided)
 - 6 RGB LEDs for visual feedback
 - 2 Soldering Slots for Potentiometers (Stereo Jacks provided)
+- 2 Soldering Slots for Endless Knobs with Push Buttons
 - MIDI In and Out (Mini jacks provided)
 - USB (Socket provided)
 
