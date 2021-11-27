@@ -12,6 +12,8 @@ permalink: /purchase/
 <h3>Boxed ·         
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gumroad.com/l/phBcg">Get it!</a></h3>
-<!-- <li>Maker</li> -->
+<h3>Maker ·  
+<script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gumroad.com/l/WVSZBM">Get it!</a></h3>
 
 </html>
