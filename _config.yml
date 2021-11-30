@@ -140,6 +140,12 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/KBLiveSolutions/
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://kblivesolutions.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "contact@kblivesolutions.com"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   # url:
