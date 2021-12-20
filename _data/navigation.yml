@@ -1,10 +1,11 @@
 # main links
 main:
-  - title: "Get Starts/
   - title: "3 Versions"
     url: /versions/
   - title: "Ressources"
     url: /ressources/
+  - title: "Get Started"
+    url: /get_started/
   - title: "Forum"
     url: https://github.com/KBLiveSolutions/open.control/discussions
   - title: "Order"
