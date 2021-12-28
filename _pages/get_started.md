@@ -13,7 +13,9 @@ permalink: /get_started/
 3. Unzip the file, copy the folder `open_control` inside it and paste it into the `Remote Scripts` folder you created
 4. Relaunch Live if it was open, open the Preferences, and go to the Link/Tempo/MIDI Tab
 5. Configure the MIDI Preferences as below :
+
 ![Preferences](../assets/images/preferences.jpg)
+
 You should see the color of the LEDs change and open·control display a Scene name.
 6. Go to the <a href="https://kblivesolutions.github.io/open.control-editor/" target=_blank>Web Editor</a> or [Download it](https://github.com/KBLiveSolutions/open.control-editor/archive/refs/heads/main.zip) to configure open·control.  
     - A message  asking to let kblivesolutions.github.io use your MIDI devices will appear. Click on Allow.  
