@@ -51,7 +51,7 @@ sidebar:
   </tr>
 </tbody>
 </table>
-<p align=center style="color: rgb(16, 106, 112)">* : visual feedback available</p>
+<p align=center style="color: rgb(89, 90, 90);">* : visual feedback available</p>
 
 <table class="action_table" id="leds_table">
   <thead>
@@ -61,7 +61,7 @@ sidebar:
   </thead>
   <tbody>
   <tr>
-      <td class="light"><b>Global</b> : <br>
+      <td ><b>Global</b> : <br>
     Last Selected Parameter · Global Groove Amount · Master Volume· Cue Volume · BPM +/- 1 · Scroll Scenes</td>
   </tr>
   <tr>
