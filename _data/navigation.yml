@@ -8,8 +8,8 @@ main:
     url: /get_started/
   - title: "Forum"
     # url: /forum/
-    # url: https://github.com/KBLiveSolutions/open.control/discussions
-    url: https://discord.com/channels/931465515619221534/931465516172841043
+    url: https://github.com/KBLiveSolutions/open.control/discussions
+    # url: https://discord.com/channels/931465515619221534/931465516172841043
   - title: "Order"
     url: /purchase/
   - title: "About"
