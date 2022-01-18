@@ -37,7 +37,7 @@ sidebar:
       <td><b>Arrangement</b> : <br> Arrangement Rec* · Arrangement Loop* · Go to Prev/Next Marker · Add/Delete Marker · Loop to Next Marker · Punch In / Punch Out* · Jump to 1.1.1 · Back To Arrangement*</td>
 </tr>
   <tr>
-      <td class="light"><b>Session</b> : <br> Session Record* · Launch Scene* · Select Next/Prev Scene* · Fixed Length Record · Insert Scene · Stop All Clips</td>
+      <td class="light"><b>Session</b> : <br> Session Record* · Launch Scene* · Select Next/Prev Scene* · Fixed Length Recording · Insert Scene · Stop All Clips</td>
   </tr>
   <tr>
       <td ><b>Tracks</b> : <br> Launch Clip* · Record Clip* · Find Next Empty Slot · Mute* · Solo* · Arm* · Stop · Select Prev/Next Track* · Add Audio/MIDI Track</td>
@@ -69,7 +69,7 @@ sidebar:
     Skip Forward/Backward · Loop Position · Loop Length · Jump to Next/Prev Marker · Horizontal Zoom</td>
   </tr>
   <tr>
-      <td style="border-bottom-right-radius: 12px; border-bottom-left-radius: 12px;"><b>Selected Track</b> : <br> Volume · Pan · Send A · Send B · Selected Device Parameters 1 to 4 · Device 1 Parameters 1 to 4</td>
+      <td style="border-bottom-right-radius: 12px; border-bottom-left-radius: 12px;"><b>Selected Track</b> : <br> Volume · Pan · Send A · Send B · Selected Device Parameters 1 to 4</td>
   </tr>
 </tbody>
 </table>
