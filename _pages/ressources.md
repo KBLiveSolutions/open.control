@@ -31,13 +31,13 @@ sidebar:
   </thead>
   <tbody>
   <tr>
-      <td class="light"><b>Global</b> : <br> Start/Stop* · Metronome* · Undo/Redo · Capture* · BPM +1/-1 · Arr / Session View Toggle · Re-enable Automation* · MIDI Record Quantization* ·</td>
+      <td class="light"><b>Global</b> : <br> Start/Stop* · Continue Playing ·  Metronome* · Undo/Redo · Capture* · BPM +/-1 · Arr / Session View Toggle · Re-enable Automation* · MIDI Record Quantization* · Show Arrangement/Session View</td>
   </tr>
   <tr>
       <td><b>Arrangement</b> : <br> Arrangement Rec* · Arrangement Loop* · Go to Prev/Next Marker · Add/Delete Marker · Loop to Next Marker · Punch In / Punch Out* · Jump to 1.1.1 · Back To Arrangement*</td>
 </tr>
   <tr>
-      <td class="light"><b>Session</b> : <br> Session Record* · Launch Scene* · Select Next/Prev Scene* · Insert Scene · Stop All Clips</td>
+      <td class="light"><b>Session</b> : <br> Session Record* · Launch Scene* · Select Next/Prev Scene* · Fixed Length Record · Insert Scene · Stop All Clips</td>
   </tr>
   <tr>
       <td ><b>Tracks</b> : <br> Launch Clip* · Record Clip* · Find Next Empty Slot · Mute* · Solo* · Arm* · Stop · Select Prev/Next Track* · Add Audio/MIDI Track</td>
@@ -56,7 +56,7 @@ sidebar:
 <table class="action_table" id="leds_table">
   <thead>
       <tr>
-          <th colspan="1">Knobs</th>
+          <th colspan="1">Encoders</th>
       </tr>
   </thead>
   <tbody>
@@ -70,6 +70,26 @@ sidebar:
   </tr>
   <tr>
       <td style="border-bottom-right-radius: 12px; border-bottom-left-radius: 12px;"><b>Selected Track</b> : <br> Volume · Pan · Send A · Send B · Selected Device Parameters 1 to 4 · Device 1 Parameters 1 to 4</td>
+  </tr>
+</tbody>
+</table>
+
+<table class="action_table" id="leds_table">
+  <thead>
+      <tr>
+          <th colspan="1">Expression Pedals</th>
+      </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td ><b>Global</b> : <br>
+    Last Selected Parameter · Global Groove Amount · Master Volume· Cue Volume</td>
+  </tr>
+  <tr>
+      <td class="light"><b>Selected Track</b> : <br> Volume · Pan · Send A · Send B</td>
+  </tr>
+  <tr>
+      <td style="border-bottom-right-radius: 12px; border-bottom-left-radius: 12px;"><b>Selected Device</b> : <br> Parameters 1 to 4</td>
   </tr>
 </tbody>
 </table>
