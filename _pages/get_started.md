@@ -4,7 +4,7 @@ permalink: /get_started/
 ---
 <!-- # <span class="bis"> Videos</span> -->
 
-# Thank you for purchasing open·control !
+# Welcome to open·control !
 
 ### Here are a few steps that will get you started
 
@@ -19,6 +19,6 @@ permalink: /get_started/
 You should see the color of the LEDs change and open·control display a Scene name.
 6. Go to the <a href="https://kblivesolutions.github.io/open.control-editor/" target=_blank>Web Editor</a> or [Download it](https://github.com/KBLiveSolutions/open.control-editor/archive/refs/heads/main.zip) to configure open·control.  
     - A message  asking to let kblivesolutions.github.io use your MIDI devices will appear. Click on Allow.  
-    - As of December 21, compatible browsers are: Chrome, Edge and Opera 
+    - As of December 2021, compatible browsers are: Chrome, Edge and Opera 
   
 **You are now ready to fully enjoy open·control. Have fun !**
