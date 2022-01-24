@@ -36,7 +36,7 @@ sidebar:
         url: https://github.com/KBLiveSolutions/open.control-Remote-Script/archive/refs/heads/main.zip
       - title: "View source on Github"
         url: https://github.com/KBLiveSolutions/open.control-Remote-Script
-  - title: Arduino Firmware
+  - title: Hardware
     children: 
       - title: "Download"
         url: https://github.com/KBLiveSolutions/open.control-firmware/archive/refs/heads/main.zip
