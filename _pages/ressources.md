@@ -69,8 +69,8 @@ toc_label: "Page Contents"
 | ▶ Launch Scene                    | *       | *    |         |          |  13 |
 | ⬆ Sel Prev Scene                  | *       | *    |         |          |  14 |
 | ⬇ Sel Next Scene                  | *       | *    |         |          |  15 |
-| ⬆+4 Jump 4 Scenes Up              | *       |      |         |          | 105 |
-| ⬇-4 Jump 4 Scenes Down            | *       |      |         |          | 106 |
+| ⇈+4 Jump 4 Scenes Up              | *       |      |         |          | 105 |
+| ⇊-4 Jump 4 Scenes Down            | *       |      |         |          | 106 |
 | ⥴ Jump to Playing Scene           | *       |      |         |          |  16 |
 | ⥅ Insert Scene                    | *       |      |         |          |  17 |
 | ⥅ Capture and Insert Scene        | *       |      |         |          |  43 |
