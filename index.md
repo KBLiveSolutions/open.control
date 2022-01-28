@@ -78,18 +78,14 @@ gallery_looper:
 - image_path: /assets/images/looper.jpeg
 - image_path: /assets/images/opencontrol_box_small.jpg
 ---
+<!-- # <span class="bis"> Videos</span> -->
+
+# open·control, a unique Control Surface for Ableton Live
+
 <html>
-    <!-- <br>
     <div >
-        <img src="./assets/images/logo_big.png" class="my_header2" width=400px/>
-
-    </div> -->
-    <div >
-      <h3 align=center>
-        open·control is a unique Control Surface for Ableton Live<br></h4>
-
     <p align=center>
-        It has a <b>large and bright display, 6 buttons with visual feedback</b> and <b>2 knobs.</b><br>
+      open·control is customizable MIDI controller with a <b>large and bright display, 6 buttons with visual feedback</b> and <b>2 knobs.</b><br>
         <b>You</b> decide what each element will control, whether using your <b>fingers</b> or with <b>pedals</b>.<br>
         <br>
       </p>
