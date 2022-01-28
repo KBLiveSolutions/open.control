@@ -5,7 +5,7 @@ permalink: /purchase/
 <html>
 <!-- <br><h1>Until November 27th, open·control is available only on <a href="https://www.kickstarter.com/projects/kblivesolutions/opencontrol" target="_blank">Kickstarter</a></h1>
 <br> -->
-<h1> open·control is available on pre-order</h1>
+<h1> Get open·control !</h1>
 <h3>· Pocket ·<br>
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gumroad.com/l/kweDo">· 69€/79€ ·</a></h3>

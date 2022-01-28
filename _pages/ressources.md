@@ -7,13 +7,9 @@ toc: true
 toc_label: "Page Contents"
 # toc_icon: "cog"
 ---
-<!-- # <span class="bis"> Videos</span> -->
+<a></a>
 
-<a id="available-actions"></a>
-
-
-
-# List of Control Changes and actions
+# List of available Actions {#available-actions}
 
 
 ## Global Actions
@@ -154,6 +150,7 @@ toc_label: "Page Contents"
 | ⇆ Page 1/3                        | *       |      |         |          |  51 |
 | ↩ Prev Page                       | *       |      |         |          |  56 |
 | ↪ Next Page                       | *       |      |         |          |  57 |
+
 
 
 All CC messages are sent on Channel 16.
