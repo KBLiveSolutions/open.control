@@ -20,14 +20,16 @@ sidebar:
     children: 
       - title: "User Manual"
         url: /user_manual/
-      - title: "Controller Editor (Access)"
+      - title: "Controller Editor"
         url: https://kblivesolutions.github.io/open.control-editor/
-      - title: "Controller Editor (Source)"
-        url: https://github.com/KBLiveSolutions/open.control-editor
       - title: "Ableton Live Remote Script (Download)"
         url: https://github.com/KBLiveSolutions/open.control-Remote-Script/archive/refs/heads/main.zip
-      - title: "Ableton Live Remote Script (Source)"
+  - title: Source Code
+    children:   
+      - title: "Controller Editor"
+        url: https://github.com/KBLiveSolutions/open.control-editor  
+      - title: "Ableton Live Remote Script"
         url: https://github.com/KBLiveSolutions/open.control-Remote-Script
-      - title: "Firmware (Source)"
+      - title: "Firmware"
         url: https://github.com/KBLiveSolutions/open.control-firmware
       - title: "3D Printed Cover (coming soon)"  
