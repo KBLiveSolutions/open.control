@@ -96,8 +96,6 @@ gallery_looper:
         <br>
         <p align=center>
         Is is Open Source, so all the code is available, and it will continuously improve as its user base grows.
-
-    </div>
     <br>
     <div class="auto-resizable-iframe">
       <div>
@@ -220,12 +218,11 @@ Looper integration
 <li>Boxed : 16 x 9.5 X 3.5 cm</li>
 <br>
 </div>
-<p align=center><img src="./assets/images/green_recycle.jpeg"/ width=45px> <b><font color="rgb(128, 128, 0)">To help make the planet a bit greener , <u>no cables are provided with open.control.</u></font> </b><br> 
+<p align=center><img src="./assets/images/green_recycle.jpeg" width=45px> <b><font color="rgb(128, 128, 0)">To help make the planet a bit greener , <u>no cables are provided with open.control.</u></font> </b><br> 
   The USB cable is very standard (Printer type), you probably have one you don't use.</p>
 <br><h1>
     FAQ
 </h1>
-<br>
 <div class="specs">
 <li>Q: Does opencontrol rely on Max For Live ?<br>
   No, there's no need to have Max For Live</li>
@@ -236,4 +233,3 @@ Looper integration
   <li>Q: What version of Live are supported ?<br>
   Any version above Live 9 will work (Lite, Standard, Suite). </li>
   </div>
-</html>
