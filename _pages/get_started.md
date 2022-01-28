@@ -22,3 +22,5 @@ You should see the color of the LEDs change and open·control display a Scene na
     - As of December 2021, compatible browsers are: Chrome, Edge and Opera 
   
 **You are now ready to fully enjoy open·control. Have fun !**
+
+***Makers****, visit the [for the Makers](https://kblivesolutions.github.io/open.control/ressources/#for-the-makers) section for some explanations.*

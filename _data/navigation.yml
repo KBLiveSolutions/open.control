@@ -7,44 +7,27 @@ main:
   - title: "Get Started"
     url: /get_started/
   - title: "Forum"
-    # url: /forum/
     url: https://github.com/KBLiveSolutions/open.control/discussions
-    # url: https://discord.com/channels/931465515619221534/931465516172841043
   - title: "Order"
     url: /purchase/
   - title: "About"
     url: /about/
-  
+
 
 sidebar:
   - title: ""
-  - title: User Manual
+  - title: Online ressources
     children: 
-      - title: "View"
+      - title: "User Manual"
         url: /user_manual/
-  - title:  Controller Web Editor
-    children: 
-      - title: "Access"
+      - title: "Controller Editor (Access)"
         url: https://kblivesolutions.github.io/open.control-editor/
-      - title: "Download"
-        url: https://github.com/KBLiveSolutions/open.control-editor/archive/refs/heads/main.zip
-      - title: "View source on Github"
+      - title: "Controller Editor (Source)"
         url: https://github.com/KBLiveSolutions/open.control-editor
-  - title: Ableton Live Remote Script
-    children: 
-      - title: "Download"
+      - title: "Ableton Live Remote Script (Download)"
         url: https://github.com/KBLiveSolutions/open.control-Remote-Script/archive/refs/heads/main.zip
-      - title: "View source on Github"
+      - title: "Ableton Live Remote Script (Source)"
         url: https://github.com/KBLiveSolutions/open.control-Remote-Script
-  - title: Hardware
-    children: 
-      - title: "Download"
-        url: https://github.com/KBLiveSolutions/open.control-firmware/archive/refs/heads/main.zip
-      - title: "View source on Github"
+      - title: "Firmware (Source)"
         url: https://github.com/KBLiveSolutions/open.control-firmware
-  - title: Reference Guide
-    children: 
-      - title: "T.B.A"
-  - title: 3D Printed Cover
-    children: 
-      - title: "T.B.A"
+      - title: "3D Printed Cover (coming soon)"  
