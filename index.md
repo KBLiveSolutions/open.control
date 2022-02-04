@@ -154,8 +154,8 @@ gallery_looper:
 <h1>
   Setlists
   </h1>
-  <h3>You can create Setlists for maximum efficiency</h3>
-    <p align=center><b>Add (SONG#) to a Scene or Marker name, and it will be added to a virtual setlist.</b> <br>
+  <h3>You can create virtual Setlists for maximum efficiency</h3>
+      <p align=center>Add (SONG#) to a <b>Scene</b> or <b>Arrangement Marker</b> name, and it will be added to a virtual setlist.<br>
       You will then be able to go to the next or previous song, and launch the selected song instantly. <br>
       <br>
   So for instance, if you name a Scene : <span style="font-family:'Courier New'" background-color="#000000"><b>(SONG3) Cool!</b></span> , it will appear like that :
