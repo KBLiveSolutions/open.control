@@ -34,5 +34,5 @@ sidebar:
     children:   
       - title: "Ableton Live Remote Script"
         url: https://github.com/KBLiveSolutions/open.control-Remote-Script/archive/refs/heads/main.zip
-      - title: "3D Printed Cover (coming soon)"  
+      - title: "3D Printed Cover"  
         url: https://github.com/KBLiveSolutions/open.control/blob/main/ressources/OpenControlCover.stl
