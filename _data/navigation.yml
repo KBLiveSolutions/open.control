@@ -18,12 +18,10 @@ sidebar:
   - title: ""
   - title: Online ressources
     children: 
-      - title: "User Manual"
-        url: /user_manual/
       - title: "Controller Editor"
         url: https://kblivesolutions.github.io/open.control-editor/
-      - title: "Ableton Live Remote Script (Download)"
-        url: https://github.com/KBLiveSolutions/open.control-Remote-Script/archive/refs/heads/main.zip
+      - title: "User Manual"
+        url: /user_manual/
   - title: Source Code
     children:   
       - title: "Controller Editor"
@@ -32,4 +30,9 @@ sidebar:
         url: https://github.com/KBLiveSolutions/open.control-Remote-Script
       - title: "Firmware"
         url: https://github.com/KBLiveSolutions/open.control-firmware
+  - title: Downloads
+    children:   
+      - title: "Ableton Live Remote Script"
+        url: https://github.com/KBLiveSolutions/open.control-Remote-Script/archive/refs/heads/main.zip
       - title: "3D Printed Cover (coming soon)"  
+        url: https://github.com/KBLiveSolutions/open.control/blob/main/ressources/OpenControlCover.stl
