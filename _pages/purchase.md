@@ -12,7 +12,6 @@ permalink: /purchase/
 <h3>· Boxed ·<br>
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gumroad.com/l/phBcg">· 129€ ·</a></h3>
-<p align=center>Pre-order only. Estimated delivery time March 2022</p>
 <h3>· Maker ·<br>
 <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gumroad.com/l/WVSZBM">· 59€ ·</a></h3>
