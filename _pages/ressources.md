@@ -11,14 +11,13 @@ toc_label: "Page Contents"
 
 # Videos
 
-## Using open·control with Live's Looper
+## Setting up open·control for Live's Looper
 
 <div class="auto-resizable-iframe">
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2paxKd9Q0rU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
-<br>
 
 ## open·control demo
 
