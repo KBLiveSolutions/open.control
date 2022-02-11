@@ -138,7 +138,7 @@ gallery_looper:
 <p align=center>
   <b>open·control is the only controller available that shows and controls Variations, Scene names, Looper state... along many other unique features.</b> <br>
   Of course you can  use the buttons to do "classic" MIDI mapping.<br>
-  You can find a <a href="./ressources/">list of available actions</a> on the Ressources page.
+  You can find a <a href="./ressources#available-actions">list of available actions</a> on the Ressources page.
 
 <a id="examples"></a>  
 </p>
