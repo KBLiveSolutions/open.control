@@ -11,21 +11,28 @@ toc_label: "Page Contents"
 
 # Videos
 
-## Setting up open·control for Live's Looper
+## Setting up open·control for Live's Looper {#looper}
 
-<div class="auto-resizable-iframe">
+<span class="auto-resizable-iframe">
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2paxKd9Q0rU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
-</div>
+
+## Creating Setlists {#setlists}
+
+<span class="auto-resizable-iframe">
+  <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/usn9HxS2Gtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 
 ## open·control demo
 
-<div class="auto-resizable-iframe">
+<span class="auto-resizable-iframe">
 <div>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/XDOy5wNA_7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-</div>
+
+<br>
 
 # List of available Actions {#available-actions}
 

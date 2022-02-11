@@ -166,14 +166,16 @@ gallery_looper:
 <br>
   Your setlist can be as long as you want. 
   <br>
-  If you want to change the order of the songs or add or remove items, just update the corresponding (SONG#) tag.
+  If you want to change the order of the songs or add or remove items, just update the corresponding (SONG#) tag.<br>
+  <a href="./ressources#setlists">More details</a>
   <br>
   <h1>
 Looper integration
 </h1>
 <h3>open·control takes extra care of Live's Looper device</h3>
   <p align=center><b>open·control detects any Looper that has (LOOPER#) in its name.</b> You can then navigate through Loopers and control and monitor the state of each Looper individually.<br>
-  Another useful feature is that you can monitor the state of 6 Loopers simultaneously</p>
+  Another useful feature is that you can monitor the state of 6 Loopers simultaneously</p><br>
+  <a href="./ressources#looper">More details</a>
 <br>
 
 <div >
