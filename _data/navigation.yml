@@ -33,7 +33,7 @@ sidebar:
   - title: Downloads
     children:   
       - title: "Controller Editor"
-      url: https://github.com/KBLiveSolutions/open.control-editor/archive/refs/heads/main.zip
+        url: https://github.com/KBLiveSolutions/open.control-editor/archive/refs/heads/main.zip
       - title: "Ableton Live Remote Script"
         url: https://github.com/KBLiveSolutions/open.control-Remote-Script/archive/refs/heads/main.zip
       - title: "3D Printed Cover"  
