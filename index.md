@@ -158,11 +158,8 @@ gallery_looper:
       <p align=center>Add (SONG#) to a <b>Scene</b> or <b>Arrangement Marker</b> name, and it will be added to a virtual setlist.<br>
       You will then be able to go to the next or previous song, and launch the selected song instantly. <br>
       <br>
-  So for instance, if you name a Scene : <span style="font-family:'Courier New'" background-color="#000000"><b>(SONG3) Cool!</b></span> , it will appear like that :
-
 <br>
-<br>
-<img src="./assets/images/setlist_example.jpg" class="my_header2" width=150px/>
+<img src="./assets/images/setlist_reduced1.gif" class="my_header2" width=150px/>
 <br>
   Your setlist can be as long as you want. 
   <br>
@@ -175,7 +172,7 @@ Looper integration
 <h3>open·control takes extra care of Live's Looper device</h3>
   <p align=center><b>open·control detects any Looper that has (LOOPER#) in its name.</b> You can then navigate through Loopers and control and monitor the state of each Looper individually.<br>
   Another useful feature is that you can monitor the state of 6 Loopers simultaneously</p><br>
-  <a href="./ressources#looper">More details</a>
+  <p align=center><a href="./ressources#looper">More details</a>
 <br>
 
 <div >
