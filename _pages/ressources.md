@@ -12,7 +12,7 @@ toc_label: "Page Contents"
 # List of available Actions {#available-actions}
 
 
-## Global Actions
+### Global Actions
 
 | Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
 |-----------------------------------|---------|------|---------|----------|-----|
@@ -38,7 +38,7 @@ toc_label: "Page Contents"
 | ↔ Horizontal Zoom                   |         |      |         | *        |  99 |
 | ↔ Horizontal Scroll                 |         |      |         | *        | 101 |
 
-## Arrangement Actions 
+### Arrangement Actions 
 
 | Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
 |-----------------------------------|---------|------|---------|----------|-----|
@@ -57,7 +57,7 @@ toc_label: "Page Contents"
 | ⩉ Arrangement Loop Length           |         |      |         | *        |  85 |
 | ↹ Jump to Next/Prev Marker          |         |      |         | *        |  88 |
 
-## Session Actions
+### Session Actions
 
 | Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
 |-----------------------------------|---------|------|---------|----------|-----|
@@ -76,7 +76,7 @@ toc_label: "Page Contents"
 | ❽ Fixed Length Rec 8 Bars         | *       |      |         |          | 110 |
 | ↕ Scroll Scenes                     |         |      |         | *        |  86 |
 
-## Tracks Actions
+### Tracks Actions
 
 | Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
 |-----------------------------------|---------|------|---------|----------|-----|
@@ -101,7 +101,7 @@ toc_label: "Page Contents"
 | ③ Selected Device Param 3           |         |      | *       | *        |  63 |
 | ④ Selected Device Param 4           |         |      | *       | *        |  64 |
 
-## Looper Actions
+### Looper Actions
 
 | Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
 |-----------------------------------|---------|------|---------|----------|-----|
