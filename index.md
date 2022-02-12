@@ -171,8 +171,8 @@ Looper integration
 </h1>
 <h3>open·control takes extra care of Live's Looper device</h3>
   <p align=center><b>open·control detects any Looper that has (LOOPER#) in its name.</b> You can then navigate through Loopers and control and monitor the state of each Looper individually.<br>
-  Another useful feature is that you can monitor the state of 6 Loopers simultaneously</p><br>
-  <p align=center><a href="./ressources#looper">More details</a>
+  Another useful feature is that you can monitor the state of 6 Loopers simultaneously.<br>
+  <a href="./ressources#looper">More details</a></p>
 <br>
 
 <div >
