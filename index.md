@@ -85,8 +85,8 @@ gallery_looper:
 <html>
     <div >
     <p align=center>
-      open·control is customizable MIDI controller with a <b>large and bright display, 6 buttons with visual feedback</b> and <b>2 knobs.</b><br>
-        <b>You</b> decide what each element will control, whether using your <b>fingers</b> or with <b>pedals</b>.<br>
+      open·control is a customizable MIDI controller with a <b>large and bright display, 6 buttons with visual feedback</b> and <b>2 knobs.</b><br>
+        <b>It is available in 3 formats, to use it with <b>pedals, fingers, or to make your own</b>.<br>
         <br>
       </p>
         <div >
@@ -154,8 +154,8 @@ gallery_looper:
 <h1>
   Setlists
   </h1>
-  <h3>You can create virtual Setlists for maximum efficiency</h3>
-      <p align=center>Add (SONG#) to a <b>Scene</b> or <b>Arrangement Marker</b> name, and it will be added to a virtual setlist.<br>
+  <h3>Create Setlists for maximum efficiency</h3>
+      <p align=center>You can create setlists by adding (SONG#) to a <b>Scene</b> or <b>Arrangement Marker</b> name<br>
       You will then be able to go to the next or previous song, and launch the selected song instantly. <br>
       <br>
 <br>
