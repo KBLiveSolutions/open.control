@@ -86,12 +86,11 @@ gallery_looper:
     <div >
     <p align=center>
       open·control is a customizable MIDI controller with a <b>large and bright display, 6 buttons with visual feedback</b> and <b>2 knobs.</b><br>
-        <b>It is available in 3 formats, to use it with <b>pedals, fingers, or to make your own</b>.<br>
+        It is available in 3 formats, to use it with <b>pedals, fingers, or to make your own</b>.<br>
         <br>
       </p>
         <div >
             <img src="./assets/images/pocket_angle.jpg" class="my_header"/>
-    
         </div>
         <br>
         <p align=center>
@@ -110,8 +109,7 @@ gallery_looper:
   <h3>open·control is available in 3 formats.</h3> <br>
 
 <p align=center>
-  <b>Pocket</b> is a lightweight desktop controler, <b>Boxed</b> is designed to be used with pedals, and <b>Maker</b> is for the hobbyist who wants to create his own enclosure.<br>
-  Each version has the same set of features, simply choose how you want to control it.
+  <b>Pocket</b> is a lightweight desktop controler, <b>Boxed</b> is designed to be used with pedals, and <b>Maker</b> is for the hobbyist who wants to create his own enclosure.
 </p>
 
 <br>
