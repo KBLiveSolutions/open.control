@@ -78,7 +78,6 @@ gallery_looper:
 - image_path: /assets/images/looper.jpeg
 - image_path: /assets/images/opencontrol_box_small.jpg
 ---
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <!-- # <span class="bis"> Videos</span> -->
 
 # open·control, a unique Control Surface for Ableton Live
