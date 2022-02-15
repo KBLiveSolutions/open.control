@@ -3,31 +3,65 @@ layout: single
 permalink: /ressources/
 sidebar:
   nav: "sidebar"
+
 toc: true
 toc_label: "Page Contents"
+toc_sticky: true
 # toc_icon: "cog"
+
+gallery_pocket:
+- url: /assets/images/pocket_angle.jpg
+  image_path: /assets/images/pocket_angle.jpg
+- url: /assets/images/pocket_close.jpg
+  image_path: /assets/images/pocket_close.jpg
+- url: /assets/images/pocket_back.jpg
+  image_path: /assets/images/pocket_back.jpg
+  
+gallery_boxed:
+- url: /assets/images/red_boxed.jpg
+  image_path: /assets/images/red_boxed.jpg
+- url: /assets/images/boxed_front.jpg
+  image_path: /assets/images/boxed_front.jpg
+- url: /assets/images/boxed_back.jpg
+  image_path: /assets/images/boxed_back.jpg
+- url: /assets/images/boxed_full_hiQ.jpg
+  image_path: /assets/images/boxed_full_hiQ.jpg
+
+gallery_maker:
+- url: /assets/images/maker_components.jpg
+  image_path: /assets/images/maker_components.jpg
+- url: /assets/images/red_maker2.jpg
+  image_path: /assets/images/red_maker2.jpg
+- url: /assets/images/split.jpg
+  image_path: /assets/images/split.jpg
+
+gallery_cover:
+- url: /assets/images/Cover_PET.jpg
+  image_path: /assets/images/Cover_PET.jpg
+- url: /assets/images/cover_small.jpg
+  image_path: /assets/images/cover_small.jpg
+- url: /assets/images/cover_small_2.jpg
+  image_path: /assets/images/cover_small_2.jpg
+ 
 ---
 <a></a>
 
-# Ressources
-
-## Videos
-
-### Setting up open·control for Live's Looper {#looper}
+# Videos
+## Setting up open·control for Live's Looper {#looper}
 
 <span class="auto-resizable-iframe">
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/2paxKd9Q0rU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
-### Creating Setlists {#setlists}
+## Creating Setlists {#setlists}
 
 <span class="auto-resizable-iframe">
   <div>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/usn9HxS2Gtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
-### open·control demo
+## open·control demo
 
 <span class="auto-resizable-iframe">
 <div>
@@ -36,9 +70,61 @@ toc_label: "Page Contents"
 
 <br>
 
-## List of available Actions {#available-actions}
 
-### Global Actions
+# Pictures & Specs
+
+## Pocket
+
+- Bright LED Matrix display
+- 6 Buttons
+- 6 RGB LEDs for visual feedback
+- 2 Endless Knobs with Push Buttons
+- MIDI In and Out
+- USB
+- Optional cover
+
+{% include gallery id="gallery_pocket" %}
+<b>Dimensions:</b> 15 x 9 X 4 cm
+
+### 3D Printed Cover
+
+<p align=center>A 3D printed cover for the Pocket version is available.<br>
+This cover is made of <b>recycled bottles</b>.<br>
+Produced and designed by Bruno Tognin. </p>
+
+<br>
+{% include gallery id="gallery_cover" %}
+<p align=center>You can also print it yourself, you can find the files in the <a href="../ressources">Ressources</a> page.</p>
+
+##  Boxed
+
+- Bright LED Matrix display
+- 6 Mono Jack input for Switch pedals (sustain type)
+- 6 RGB LEDs for visual feedback
+- 2 Stereo Jack for Expression pedals
+- 2 Endless Knobs with Push Buttons (not shown on pictures)
+- MIDI In and Out
+- USB
+- Robust plastic enclosure
+
+{% include gallery id="gallery_boxed" %}
+<b>Dimensions:</b> 16 x 9.5 X 3.5 cm
+
+## Maker
+
+- Bright LED Matrix display
+- 6 Soldering Slots for Buttons/Switches (Mono jacks provided)
+- 6 RGB LEDs for visual feedback
+- 2 Soldering Slots for Potentiometers (Stereo Jacks provided)
+- 2 Soldering Slots for Endless Knobs with Push Buttons
+- MIDI In and Out (Mini jacks provided)
+- USB (Socket provided)
+
+{% include gallery id="gallery_maker" %}
+<b>Dimensions:</b> 15 x 9 X 4 cm
+
+# List of available Actions {#available-actions}
+## Global Actions
 
 | Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
 |-----------------------------------|---------|------|---------|----------|-----|
@@ -64,7 +150,7 @@ toc_label: "Page Contents"
 | ↔ Horizontal Zoom                   |         |      |         | *        |  99 |
 | ↔ Horizontal Scroll                 |         |      |         | *        | 101 |
 
-### Arrangement Actions 
+## Arrangement Actions 
 
 | Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
 |-----------------------------------|---------|------|---------|----------|-----|
@@ -83,7 +169,7 @@ toc_label: "Page Contents"
 | ⩉ Arrangement Loop Length           |         |      |         | *        |  85 |
 | ↹ Jump to Next/Prev Marker          |         |      |         | *        |  88 |
 
-### Session Actions
+## Session Actions
 
 | Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
 |-----------------------------------|---------|------|---------|----------|-----|
@@ -102,7 +188,7 @@ toc_label: "Page Contents"
 | ❽ Fixed Length Rec 8 Bars         | *       |      |         |          | 110 |
 | ↕ Scroll Scenes                     |         |      |         | *        |  86 |
 
-### Tracks Actions
+## Tracks Actions
 
 | Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
 |-----------------------------------|---------|------|---------|----------|-----|
@@ -127,7 +213,7 @@ toc_label: "Page Contents"
 | ③ Selected Device Param 3           |         |      | *       | *        |  63 |
 | ④ Selected Device Param 4           |         |      | *       | *        |  64 |
 
-### Looper Actions
+## Looper Actions
 
 | Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
 |-----------------------------------|---------|------|---------|----------|-----|
@@ -146,7 +232,7 @@ toc_label: "Page Contents"
 | ◈ State (LOOPER5)                 |         | *    |         |          |  81 |
 | ◈ State (LOOPER6)                 |         | *    |         |          |  82 |
 
-### Setlist Actions
+## Setlist Actions
 
 | Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
 |-----------------------------------|---------|------|---------|----------|-----|
@@ -155,7 +241,7 @@ toc_label: "Page Contents"
 | ▶️ Launch setlist Song             | *       |      |         |          |  44 |
 | ▶️Ⓠ Launch setlist Song No Q       | *       |      |         |          |  45 |
 
-### Variations Actions
+## Variations Actions
 
 | Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
 |-----------------------------------|---------|------|---------|----------|-----|
@@ -168,7 +254,7 @@ toc_label: "Page Contents"
 | ⌁ Randomize Macros                | *       |      |         |          |  71 |
 | ↩︎ Recall Last Used                | *       |      |         |          |  72 |
 
-### Pages Actions
+## Pages Actions
 
 | Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
 |-----------------------------------|---------|------|---------|----------|-----|
@@ -182,9 +268,9 @@ toc_label: "Page Contents"
 All CC messages are sent on Channel 16.
 
 
-##  For the Makers
+#  For the Makers
 
-### List of components
+## List of components
 
 <img src="../assets/images/maker_components_numbers.jpg" class="my_header2" width=400px/>
 
@@ -195,7 +281,7 @@ All CC messages are sent on Channel 16.
 5. 2x Encoders with caps
 6. PCB Board
 
-### Switches and Pots
+## Switches and Pots
 
 You can solder the included 6.35mm Jacks directly to the PCB. 
 If you intend to also solder the included [Encoders](#encoders), it is advised to do that first.
@@ -218,7 +304,7 @@ The variable pin should be connected to the pins labelled A0 and A1.
 
 <img src="../assets/images/potentiometer_slots.jpeg" class="my_header2" width=400px/>
 
-### MIDI
+## MIDI
 
 You can use the included mini jacks sockets or you can use standard DIN5 sockets.
 
@@ -229,14 +315,14 @@ The numbers 4 and 5 on the board refer to this diagram, with pin 2 connected to 
 <img src="../assets/images/midi_socket.jpg"  width=200px/>
 </p>
 
-### USB
+## USB
 
 For testing reasons, the USB socket is already conected. However, you can add another socket by using the extra pads.
 NB: you won't be able to connect 2 USB cables simultaneously.
 
 <img src="../assets/images/usb_slot.jpeg" class="my_header2" width=400px/>
 
-### Encoders {#encoders}
+## Encoders {#encoders}
 
 There are 2 encoders provided that can be soldered on the board. If you intend to solder the 6.35mm Jack sockets, it is advised to solder the encoders first then the jacks. 
 **Before you start soldering, make sure all the legs are inside the holes, they can bend easily when you insert the encoders.**
@@ -247,7 +333,7 @@ See the [List of RP2040 pins](#RP2040pins) for further details.
 <img src="../assets/images/encoders_slots.jpeg" class="my_header2" width=400px/>
 
 
-### List of RP2040 pins {#RP2040pins}
+## List of RP2040 pins {#RP2040pins}
 
 | Pin | Purpose          |
 |-----|------------------|

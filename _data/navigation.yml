@@ -1,21 +1,20 @@
 # main links
 main:
-  - title: "3 Versions"
-    url: /versions/
-  - title: "Ressources"
-    url: /ressources/
+  # - title: "3 Versions"
+  #   url: /versions/
   - title: "Get Started"
     url: /get_started/
-  - title: "Forum"
-    url: https://github.com/KBLiveSolutions/open.control/discussions
+  - title: "Ressources"
+    url: /ressources/
   - title: "Order"
     url: /purchase/
+  - title: "Forum"
+    url: https://github.com/KBLiveSolutions/open.control/discussions
   - title: "About"
     url: /about/
 
 
 sidebar:
-  - title: ""
   - title: Online ressources
     children: 
       - title: "Controller Editor"
