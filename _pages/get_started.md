@@ -14,12 +14,12 @@ permalink: /get_started/
 4. Relaunch Live if it was open, open the Preferences, and go to the Link/Tempo/MIDI Tab
 5. Configure the MIDI Preferences as below :
 
-![Preferences](../assets/images/preferences.jpg)
 
-You should see the color of the LEDs change and open·control display a Scene name.
-6. Go to the <a href="https://kblivesolutions.github.io/open.control-editor/" target=_blank>Web Editor</a> or [Download it](https://github.com/KBLiveSolutions/open.control-editor/archive/refs/heads/main.zip) to configure open·control.  
-    - A message  asking to let kblivesolutions.github.io use your MIDI devices will appear. Click on Allow.  
-    - As of December 2021, compatible browsers are: Chrome, Edge and Opera 
+    <img src="../assets/images/preferences.jpg" class="my_header2" width=150px/>
+
+    You should see the color of the LEDs change and open·control display a Scene name.
+6. Go to the <a href="https://kblivesolutions.github.io/open.control-editor/" target=_blank>Web Editor</a> or [Download it](https://github.com/KBLiveSolutions/open.control-editor/archive/refs/heads/main.zip) to configure open·control (compatible browsers: Chrome, Edge and Opera).  
+    - A message  asking to let kblivesolutions.github.io use your MIDI devices will appear. Click on Allow. 
   
 **You are now ready to fully enjoy open·control. Have fun !**
 
