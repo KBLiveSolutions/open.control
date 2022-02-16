@@ -85,22 +85,22 @@ gallery_looper:
 ---
 <!-- # <span class="bis"> Videos</span> -->
 
-# open·control, a unique Control Surface for Ableton Live
+<!-- # open·control, a unique Control Surface for Ableton Live -->
 
 <html>
     <div >
     <p align=center>
-      open·control is a customizable MIDI controller with a <b>large and bright display, 6 buttons with visual feedback</b> and <b>2 knobs.</b><br>
-        It is available in 3 formats, to use it with <b>pedals, fingers, or to make your own</b>.<br>
-        <br>
+      <h3>open·control is a customizable MIDI controller with a <b>large and bright display, 6 buttons with visual feedback</b> and <b>2 knobs.</b><br>
+        It is available in 3 formats, to use it with <b>pedals, fingers, or to make your own</b>.</h3>
       </p>
-        <div >
+      <br>
+        <!-- <div >
             <img src="./assets/images/pocket_angle.jpg" class="my_header"/>
         </div>
-        <br>
+        <br> 
         <p align=center>
-        Is is Open Source, so all the code is available, and it will continuously improve as its user base grows.
-    <br>
+        Is is Open Source, so all the code is available, and it will continuously improve as its user base grows.</p>
+    <br>-->
     
 <h1>
 1 controller, 3 flavors
