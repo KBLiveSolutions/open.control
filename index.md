@@ -3,6 +3,11 @@ layout: splash
 classes: wide
 permalink: /
 
+header:
+  video:
+    id: IZiSfuIQdWI
+    provider: youtube
+
 feature_row:
 - image_path: /assets/images/red_pocket_2.jpg
   title: "Pocket"
@@ -96,13 +101,8 @@ gallery_looper:
         <p align=center>
         Is is Open Source, so all the code is available, and it will continuously improve as its user base grows.
     <br>
-    <div class="auto-resizable-iframe">
-      <div>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/4LWdT278taY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      </div>
-</div>
-
-    <h1>
+    
+<h1>
 1 controller, 3 flavors
 </h1>
 <p align=center>

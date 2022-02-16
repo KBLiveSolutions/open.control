@@ -75,14 +75,6 @@ gallery_cover:
 
 ## Pocket
 
-- Bright LED Matrix display
-- 6 Buttons
-- 6 RGB LEDs for visual feedback
-- 2 Endless Knobs with Push Buttons
-- MIDI In and Out
-- USB
-- Optional cover
-
 {% include gallery id="gallery_pocket" %}
 <b>Dimensions:</b> 15 x 9 X 4 cm
 
@@ -98,30 +90,36 @@ Produced and designed by Bruno Tognin. </p>
 
 ##  Boxed
 
-- Bright LED Matrix display
-- 6 Mono Jack input for Switch pedals (sustain type)
-- 6 RGB LEDs for visual feedback
-- 2 Stereo Jack for Expression pedals
-- 2 Endless Knobs with Push Buttons (not shown on pictures)
-- MIDI In and Out
-- USB
-- Robust plastic enclosure
-
 {% include gallery id="gallery_boxed" %}
-<b>Dimensions:</b> 16 x 9.5 X 3.5 cm
 
 ## Maker
 
-- Bright LED Matrix display
-- 6 Soldering Slots for Buttons/Switches (Mono jacks provided)
-- 6 RGB LEDs for visual feedback
-- 2 Soldering Slots for Potentiometers (Stereo Jacks provided)
-- 2 Soldering Slots for Endless Knobs with Push Buttons
-- MIDI In and Out (Mini jacks provided)
-- USB (Socket provided)
-
 {% include gallery id="gallery_maker" %}
-<b>Dimensions:</b> 15 x 9 X 4 cm
+
+## Specifications
+
+- Bright LED Matrix display
+- 6 Buttons
+- 6 RGB LEDs for visual feedback
+- 2 Endless Knobs with Push Buttons
+- MIDI In and Out 3.5mm TRS jack
+- USB
+
+**Pocket :**
+- Optional 3D printed cover
+- Dimensions: 15 x 9 X 4 cm
+
+**Boxed :**
+- Buttons are replaced with 6.35mm mono jacks
+- 2 Expression Pedal inputs
+- Robust plastic enclosure
+- Dimensions : 16 x 9.5 X 3.5 cm
+
+**Maker :**
+- Soldering slots to connect switches, potentiometers etc
+- Components provided [(see below)](#makers)
+- Dimensions: 15 x 9 X 2 cm
+
 
 # List of available Actions {#available-actions}
 ## Global Actions
@@ -268,7 +266,7 @@ Produced and designed by Bruno Tognin. </p>
 All CC messages are sent on Channel 16.
 
 
-#  For the Makers
+#  For the Makers {#makers}
 
 ## List of components
 
