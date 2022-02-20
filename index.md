@@ -179,12 +179,12 @@ Looper integration
 </div>
 <br>
 
-<h3>open·control demo</h3>
+<!-- <h3>open·control demo</h3>
 <div class="auto-resizable-iframe">
 <div>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/XDOy5wNA_7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-</div>
+</div> -->
 
 <h1>
   3 MIDI modes</h1>

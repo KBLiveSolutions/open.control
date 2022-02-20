@@ -47,6 +47,13 @@ gallery_cover:
 <a></a>
 
 # Videos
+## open·control demo
+
+<span class="auto-resizable-iframe">
+<div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/XDOy5wNA_7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Setting up open·control for Live's Looper {#looper}
 
 <span class="auto-resizable-iframe">
@@ -61,12 +68,6 @@ gallery_cover:
     <iframe width="560" height="315" src="https://www.youtube.com/embed/usn9HxS2Gtw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
-## open·control demo
-
-<span class="auto-resizable-iframe">
-<div>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/XDOy5wNA_7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 <br>
 
