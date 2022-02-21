@@ -225,8 +225,6 @@ Looper integration
   No, there's no need to have Max For Live</li>
   <li>Q: Why is the display a LED matrix, and not an OLED display ?<br>
     The main idea behind open·control was to use it on stage and to be able to read it from a certain distance and from any angle. Therefore the best solution was a LED matrix.</li>
- <li>Q: How many pedals are needed with the Boxed version ?<br>
-  With one pedal, you can already do 3 actions, 9 actions with 2 and so forth.</li>
   <li>Q: What version of Live are supported ?<br>
   Any version above Live 9 will work (Lite, Standard, Suite). </li>
   </div>
