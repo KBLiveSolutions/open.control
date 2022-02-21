@@ -8,6 +8,9 @@ permalink: /about/
 <div class="specs">
 <p align=center><b>open·control</b> was created by <b>Pierre-Antoine GRISON</b>, Ableton Certified Trainer, Consultant, and developer of MIDI controllers and Max For Live devices.</p>
 <p align=center>He is also known as <b>Krazy Baldhead</b>, and has released several albums and EPs on the French label Ed Banger Records.</p>
+<hr>
+
+<p align=center> For enquiries, please use the form below</p>
 
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xyyowbad" method="post">
@@ -22,6 +25,7 @@ permalink: /about/
   </fieldset>
   <input type="submit" value="Submit">
 </form>
+<hr>
 
 <p align=center><b>Find out more  on <a href="https://kblivesolutions.com/en">KB Live Solutions</a></b></p>
 </div>
