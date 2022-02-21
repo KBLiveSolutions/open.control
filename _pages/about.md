@@ -7,7 +7,7 @@ permalink: /about/
 <p align=center><img src="../assets/images/kb_studio.jpg" width=345px></p>
 <div class="specs">
 <p align=center><b>open·control</b> was created by <b>Pierre-Antoine GRISON</b>, Ableton Certified Trainer, Consultant, and developer of MIDI controllers and Max For Live devices.</p>
-<p align=center>He is also known as <b>Krazy Baldhead</b>, and has released several albums and EPs on the famous Ed Banger Records label.</p>
+<p align=center>He is also known as <b>Krazy Baldhead</b>, and has released several albums and EPs on the French label Ed Banger Records.</p>
 
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
