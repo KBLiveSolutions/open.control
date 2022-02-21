@@ -264,7 +264,7 @@ Produced and designed by Bruno Tognin. </p>
 
 
 
-All CC messages are sent on Channel 16.
+<p align=center>All CC messages are sent on Channel 16.</p>
 
 
 #  For the Makers {#makers}
