@@ -3,16 +3,15 @@
    ========================================================================== */
 
 table {
-  margin-left:auto; 
-  margin-right:auto;
-  align-self: center;
   display: block;
   margin-bottom: 1em;
-  width: 100%;
+  width: 60%;
   font-family: $global-font-family;
   font-size: $type-size-6;
   border-collapse: collapse;
-  overflow-x: auto;
+  // overflow-x: auto;
+  margin-left: auto;
+  margin-right: auto;
 
   & + table {
     margin-top: 1em;
@@ -42,8 +41,11 @@ th {
 }
 
 table.action_table {
+  margin-left:auto; 
+  margin-right:auto;
+  align-self: center;
   color: white;
-text-align: center;
+// text-align: center;
 border-collapse:  separate;
 background: rgb(0, 0, 0);
 border: 1px none rgb(0, 0, 0);
@@ -51,10 +53,6 @@ border: 1px none rgb(0, 0, 0);
 // height: 18px;
    width:100%;
    max-width:1000px;
-/* padding-left: 5px;
-padding-right: 5px; */
-margin-left: auto;
-margin-right: auto;
 }
 
 
