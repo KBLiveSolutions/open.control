@@ -10,10 +10,10 @@ toc_sticky: true
 # toc_icon: "cog"
 
 gallery_pocket:
-- url: /assets/images/pocket_angle.jpg
-  image_path: /assets/images/pocket_angle.jpg
-- url: /assets/images/pocket_close.jpg
-  image_path: /assets/images/pocket_close.jpg
+- url: /assets/images/hello_angle.jpeg
+  image_path: /assets/images/hello_angle.jpeg
+- url: /assets/images/pocket_front.jpeg
+  image_path: /assets/images/pocket_front.jpeg
 - url: /assets/images/pocket_back.jpg
   image_path: /assets/images/pocket_back.jpg
   

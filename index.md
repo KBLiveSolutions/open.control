@@ -9,7 +9,7 @@ header:
     provider: youtube
 
 feature_row:
-- image_path: /assets/images/red_pocket_2.jpg
+- image_path: /assets/images/red_pocket.jpg
   title: "Pocket"
   image_url: "./versions/"
   excerpt: "<p align=center><b>Desktop version</b></p>
