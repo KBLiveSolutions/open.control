@@ -42,7 +42,19 @@ gallery_cover:
   image_path: /assets/images/cover_small.jpg
 - url: /assets/images/cover_small_2.jpg
   image_path: /assets/images/cover_small_2.jpg
- 
+
+
+gallery_examples:
+- url: /assets/images/scene_example.jpg
+  image_path: /assets/images/scene_example.jpg
+  title: "Scenes"
+- url: /assets/images/track_example.jpg
+  image_path: /assets/images/track_example.jpg
+  title: "Tracks"
+- url: /assets/images/arr_example.jpg
+  image_path: /assets/images/arr_example.jpg
+  title: "Arrangement"
+
 ---
 <a></a>
 
@@ -266,6 +278,12 @@ Produced and designed by Bruno Tognin. </p>
 
 <p align=center>All CC messages are sent on Channel 16.</p>
 
+# Setup examples
+
+<a id="examples"></a>  
+<p align=center>Here are a few examples of configurations (click to zoom).</p>
+
+{% include gallery id="gallery_examples" %}
 
 #  For the Makers {#makers}
 
