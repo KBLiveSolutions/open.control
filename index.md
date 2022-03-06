@@ -68,17 +68,6 @@ feature_row2:
 
 
 
-gallery_examples:
-- url: /assets/images/scene_example.jpg
-  image_path: /assets/images/scene_example.jpg
-  title: "Scenes"
-- url: /assets/images/track_example.jpg
-  image_path: /assets/images/track_example.jpg
-  title: "Tracks"
-- url: /assets/images/arr_example.jpg
-  image_path: /assets/images/arr_example.jpg
-  title: "Arrangement"
-
 gallery_looper:
 - image_path: /assets/images/looper.jpeg
 - image_path: /assets/images/opencontrol_box_small.jpg
@@ -128,22 +117,14 @@ gallery_looper:
     No need to reload Live or refresh anything, all changes are applied immediately.
 </p>
 
-
-<br>
+<p align=center>
 <a href="https://kblivesolutions.github.io/open.control-editor/" target="_blank">
-<img src="./assets/images/editor_small.png" class="my_header2" width=800px/></a>
+<img src="./assets/images/editor_small.png"  width=800px/></a>
 <br>
 <p align=center>
-  <b>open·control is the only controller available that shows and controls Variations, Scene names, Looper state... along many other unique features.</b> <br>
+  <b>open·control is the only controller available that shows and controls Variations, Scene names, Looper state... amongst many other unique features.</b> <br>
   Of course you can  use the buttons to do "classic" MIDI mapping.<br>
-  You can find a <a href="./ressources#available-actions">list of available actions</a> on the Ressources page.
-
-<a id="examples"></a>  
-</p>
-<p align=center>Here are a few examples of configurations (click to zoom).
-</p>
-
-{% include gallery id="gallery_examples" %}
+  You can find a <a href="./ressources#available-actions">list of available actions</a> and some <a href="./ressources#examples">examples</a> on the Ressources page.
 
 <p align=center>
   open·control being Open Source, you can adapt the code to your own needs.</p>
@@ -152,16 +133,15 @@ gallery_looper:
 <h1>
   Setlists
   </h1>
-  <h3>Create Setlists for maximum efficiency</h3>
+  <h3>Optimize your live performance with Setlists</h3>
       <p align=center>You can create setlists by adding (SONG#) to a <b>Scene</b> or <b>Arrangement Marker</b> name<br>
       You will then be able to go to the next or previous song, and launch the selected song instantly. <br>
       <br>
+<img src="./assets/images/setlist_reduced1.gif"  width=650px/>
 <br>
-<img src="./assets/images/setlist_reduced1.gif" class="my_header2" width=150px/>
 <br>
-  Your setlist can be as long as you want. 
-  <br>
-  If you want to change the order of the songs or add or remove items, just update the corresponding (SONG#) tag.<br>
+  Your setlist can be as long as you want. <br>
+  You can easily re-organize your Setlist by updating the (SONG#) tags.<br>
   <a href="./ressources#setlists">More details</a>
   <br>
   <h1>
@@ -178,13 +158,18 @@ Looper integration
 
 </div>
 <br>
+<h1>
+  Custom Actions
+  </h1>
+  <h3>When 1 action is not enough</h3>
+      <p align=center>If you need to perform more than 1 action when pressing a button, you can create list of actions with "Custom Actions". These actions are created in a special text file, or by renaming Clips inside Live.<br>
+      The syntax is similar to ClyphX, so you can instantly turn existing ClyphX actions into buttons press. This also means that more actions are available.
+      <br>
+<br>
+<img src="./assets/images/custom_action2.gif" width=650px/>
+<br>
+  <br>
 
-<!-- <h3>open·control demo</h3>
-<div class="auto-resizable-iframe">
-<div>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/XDOy5wNA_7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-</div> -->
 
 <h1>
   3 MIDI modes</h1>

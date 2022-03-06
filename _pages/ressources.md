@@ -42,7 +42,19 @@ gallery_cover:
   image_path: /assets/images/cover_small.jpg
 - url: /assets/images/cover_small_2.jpg
   image_path: /assets/images/cover_small_2.jpg
- 
+
+
+gallery_examples:
+- url: /assets/images/scene_example.jpg
+  image_path: /assets/images/scene_example.jpg
+  title: "Scenes"
+- url: /assets/images/track_example.jpg
+  image_path: /assets/images/track_example.jpg
+  title: "Tracks"
+- url: /assets/images/arr_example.jpg
+  image_path: /assets/images/arr_example.jpg
+  title: "Arrangement"
+
 ---
 <a></a>
 
@@ -125,147 +137,153 @@ Produced and designed by Bruno Tognin. </p>
 # List of available Actions {#available-actions}
 ## Global Actions
 
-| Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
-|-----------------------------------|---------|------|---------|----------|-----|
-| ■/▶ Start/Stop                    | *       | *    |         |          |   1 |
-| ●○ Metronome                      | *       | *    |         |          |   2 |
-| ❚❚ Pause                          | *       |      |         |          | 100 |
-| ⧈ Stop All Clips                  | *       |      |         |          |   3 |
-| ⤶ Undo                            | *       | *    |         |          |   4 |
-| ▢ Capture                         | *       | *    |         |          |   5 |
-| ⊕ BPM +1                          | *       |      |         |          |  28 |
-| ⊖ BPM -1                          | *       |      |         |          |  29 |
-| ± BPM +/- 1                         |         |      |         | *        |  87 |
-| ⤷ Redo                            | *       | *    |         |          |  40 |
-| ← Re-enable Automation            | *       | *    |         |          |  41 |
-| ⮂ Arrangement/Session View Toggle | *       |      |         |          |  75 |
-| ⮂ Clip/Device View Toggle         | *       |      |         |          |  76 |
-| ℚ MIDI Recording Quantization     | *       | *    |         |          | 104 |
-| 🎚 Master Volume                     |         |      | *       | *        |  89 |
-| 🎧 Cue Volume                        |         |      | *       | *        |  90 |
-| % Global Groove Amount              |         |      | *       | *        |  37 |
-| ⟳ Last Selected Parameter           |         |      | *       | *        |  73 |
-| ≪≫ Skip Forward/Backward                      |         |      |         | *        |  83 |
-| ↔ Horizontal Zoom                   |         |      |         | *        |  99 |
-| ↔ Horizontal Scroll                 |         |      |         | *        | 101 |
+| Actions                           | Buttons | LEDs | Sliders | Encoders |
+|-----------------------------------|---------|------|---------|----------|
+| ■/▶ Start/Stop                    | *       | *    |         |          |
+| ●○ Metronome                      | *       | *    |         |          |
+| ❚❚ Pause                          | *       |      |         |          |
+| ⧈ Stop All Clips                  | *       |      |         |          |
+| ⤶ Undo                            | *       | *    |         |          |
+| ▢ Capture                         | *       | *    |         |          |
+| ⊕ BPM +1                          | *       |      |         |          |
+| ⊖ BPM -1                          | *       |      |         |          |
+| ± BPM +/- 1                         |         |      |         | *        |
+| ⤷ Redo                            | *       | *    |         |          |
+| ← Re-enable Automation            | *       | *    |         |          |
+| ⮂ Arrangement/Session View Toggle | *       |      |         |          |
+| ⮂ Clip/Device View Toggle         | *       |      |         |          |
+| ℚ MIDI Recording Quantization     | *       | *    |         |          |
+| 🎚 Master Volume                     |         |      | *       | *        |
+| 🎧 Cue Volume                        |         |      | *       | *        |
+| % Global Groove Amount              |         |      | *       | *        |
+| ⟳ Last Selected Parameter           |         |      | *       | *        |
+| ≪≫ Skip Forward/Backward                      |         |      |         | *        |
+| ↔ Horizontal Zoom                   |         |      |         | *        |
+| ↔ Horizontal Scroll                 |         |      |         | *        |
 
 ## Arrangement Actions 
 
-| Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
-|-----------------------------------|---------|------|---------|----------|-----|
-| ● Arrangement Rec                 | *       | *    |         |          |   6 |
-| ⥁ Arrangement Loop                | *       | *    |         |          |   7 |
-| ⇉ Restart From Last Position      | *       |      |         |          | 103 |
-| ⇥ Go to Next Marker               | *       |      |         |          |   8 |
-| ⇤ Go to Prev Marker               | *       |      |         |          |   9 |
-| ⥀ Loop to Next Marker             | *       |      |         |          | 102 |
-| ⤓ Add/Delete Marker               | *       |      |         |          |  10 |
-| ⌉ Punch In                          | *       | *    |         |          |  38 |
-| ⌈ Punch Out                         | *       | *    |         |          |  39 |
-| ⇶ Back To Arrangement               | *       | *    |         |          |  42 |
-| ↞ Jump to 1.1.1                   | *       |      |         |          |  74 |
-| ⤞ Arrangement Loop Start            |         |      |         | *        |  84 |
-| ⩉ Arrangement Loop Length           |         |      |         | *        |  85 |
-| ↹ Jump to Next/Prev Marker          |         |      |         | *        |  88 |
+| Actions                           | Buttons | LEDs | Sliders | Encoders |
+|-----------------------------------|---------|------|---------|----------|
+| ● Arrangement Rec                 | *       | *    |         |          |
+| ⥁ Arrangement Loop                | *       | *    |         |          |
+| ⇉ Restart From Last Position      | *       |      |         |          |
+| ⇥ Go to Next Marker               | *       |      |         |          |
+| ⇤ Go to Prev Marker               | *       |      |         |          |
+| ⥀ Loop to Next Marker             | *       |      |         |          |
+| ⤓ Add/Delete Marker               | *       |      |         |          |
+| ⌉ Punch In                          | *       | *    |         |          |
+| ⌈ Punch Out                         | *       | *    |         |          |
+| ⇶ Back To Arrangement               | *       | *    |         |          |
+| ↞ Jump to 1.1.1                   | *       |      |         |          |
+| ⤞ Arrangement Loop Start            |         |      |         | *        |
+| ⩉ Arrangement Loop Length           |         |      |         | *        |
+| ↹ Jump to Next/Prev Marker          |         |      |         | *        |
 
 ## Session Actions
 
-| Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
-|-----------------------------------|---------|------|---------|----------|-----|
-| ○ Session Rec                     | *       | *    |         |          |  11 |
-| ▶ Launch Scene                    | *       | *    |         |          |  13 |
-| ⬆ Sel Prev Scene                  | *       | *    |         |          |  14 |
-| ⬇ Sel Next Scene                  | *       | *    |         |          |  15 |
-| ⇈+4 Jump 4 Scenes Up              | *       |      |         |          | 105 |
-| ⇊-4 Jump 4 Scenes Down            | *       |      |         |          | 106 |
-| ⥴ Jump to Playing Scene           | *       |      |         |          |  16 |
-| ⥅ Insert Scene                    | *       |      |         |          |  17 |
-| ⥅ Capture and Insert Scene        | *       |      |         |          |  43 |
-| ❶ Fixed Length Rec 1 Bar          | *       |      |         |          | 107 |
-| ❷ Fixed Length Rec 2 Bars         | *       |      |         |          | 108 |
-| ❹ Fixed Length Rec 4 Bars         | *       |      |         |          | 109 |
-| ❽ Fixed Length Rec 8 Bars         | *       |      |         |          | 110 |
-| ↕ Scroll Scenes                     |         |      |         | *        |  86 |
+| Actions                           | Buttons | LEDs | Sliders | Encoders |
+|-----------------------------------|---------|------|---------|----------|
+| ○ Session Rec                     | *       | *    |         |          |
+| ▶ Launch Scene                    | *       | *    |         |          |
+| ⬆ Sel Prev Scene                  | *       | *    |         |          |
+| ⬇ Sel Next Scene                  | *       | *    |         |          |
+| ⇈+4 Jump 4 Scenes Up              | *       |      |         |          |
+| ⇊-4 Jump 4 Scenes Down            | *       |      |         |          |
+| ⥴ Jump to Playing Scene           | *       |      |         |          |
+| ⥅ Insert Scene                    | *       |      |         |          |
+| ⥅ Capture and Insert Scene        | *       |      |         |          |
+| ❶ Fixed Length Rec 1 Bar          | *       |      |         |          |
+| ❷ Fixed Length Rec 2 Bars         | *       |      |         |          |
+| ❹ Fixed Length Rec 4 Bars         | *       |      |         |          |
+| ❽ Fixed Length Rec 8 Bars         | *       |      |         |          |
+| ↕ Scroll Scenes                     |         |      |         | *        |
 
 ## Tracks Actions
 
-| Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
-|-----------------------------------|---------|------|---------|----------|-----|
-| ✽ Current Track Color             |         | *    |         |          |  54 |
-| ← Sel Prev Track                  | *       | *    |         |          |  18 |
-| → Sel Next Track                  | *       | *    |         |          |  19 |
-| ▷ Launch Clip                     | *       | *    |         |          |  22 |
-| ⌧ Mute                            | *       | *    |         |          |  24 |
-| S Solo                            | *       | *    |         |          |  25 |
-| ⌻ Arm                             | *       | *    |         |          |  26 |
-| ■ Stop                            | *       |      |         |          |  27 |
-| ↳ Find Empty Slot                 | *       |      |         |          |  23 |
-| ☆ Add Audio Track                 | *       |      |         |          |  20 |
-| ✬ Add MIDI Track                  | *       |      |         |          |  21 |
-| U Fold/Unfold Track               | *       |      |         |          |  55 |
-| ⟊ Volume                            |         |      | *       | *        |  91 |
-| ◠ Pan                               |         |      | *       | *        |  96 |
-| A Send A                            |         |      | *       | *        |  59 |
-| B Send B                            |         |      | *       | *        |  60 |
-| ① Selected Device Param 1           |         |      | *       | *        |  61 |
-| ② Selected Device Param 2           |         |      | *       | *        |  62 |
-| ③ Selected Device Param 3           |         |      | *       | *        |  63 |
-| ④ Selected Device Param 4           |         |      | *       | *        |  64 |
+| Actions                           | Buttons | LEDs | Sliders | Encoders |
+|-----------------------------------|---------|------|---------|----------|
+| ✽ Current Track Color             |         | *    |         |          |
+| ← Sel Prev Track                  | *       | *    |         |          |
+| → Sel Next Track                  | *       | *    |         |          |
+| ▷ Launch Clip                     | *       | *    |         |          |
+| ⌧ Mute                            | *       | *    |         |          |
+| S Solo                            | *       | *    |         |          |
+| ⌻ Arm                             | *       | *    |         |          |
+| ■ Stop                            | *       |      |         |          |
+| ↳ Find Empty Slot                 | *       |      |         |          |
+| ☆ Add Audio Track                 | *       |      |         |          |
+| ✬ Add MIDI Track                  | *       |      |         |          |
+| U Fold/Unfold Track               | *       |      |         |          |
+| ⟊ Volume                            |         |      | *       | *        |
+| ◠ Pan                               |         |      | *       | *        |
+| A Send A                            |         |      | *       | *        |
+| B Send B                            |         |      | *       | *        |
+| ① Selected Device Param 1           |         |      | *       | *        |
+| ② Selected Device Param 2           |         |      | *       | *        |
+| ③ Selected Device Param 3           |         |      | *       | *        |
+| ④ Selected Device Param 4           |         |      | *       | *        |
 
 ## Looper Actions
 
-| Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
-|-----------------------------------|---------|------|---------|----------|-----|
-| ◈ Looper State                    |         | *    |         |          |  53 |
-| ⧀ Prev Looper                     | *       | *    |         |          |  48 |
-| ⧁ Next Looper                     | *       | *    |         |          |  49 |
-| ⌻ Arm Looper Track                | *       | *    |         |          |  30 |
-| ⌧ Mute Looper Track               | *       | *    |         |          |  31 |
-| ▣ Stop Looper                     | *       |      |         |          |  35 |
-| ∅ Clear All                       | *       |      |         |          |  36 |
-| ⊕ Add Looper                      | *       |      |         |          |  47 |
-| ◈ State (LOOPER1)                 |         | *    |         |          |  77 |
-| ◈ State (LOOPER2)                 |         | *    |         |          |  78 |
-| ◈ State (LOOPER3)                 |         | *    |         |          |  79 |
-| ◈ State (LOOPER4)                 |         | *    |         |          |  80 |
-| ◈ State (LOOPER5)                 |         | *    |         |          |  81 |
-| ◈ State (LOOPER6)                 |         | *    |         |          |  82 |
+| Actions                           | Buttons | LEDs | Sliders | Encoders |
+|-----------------------------------|---------|------|---------|----------|
+| ◈ Looper State                    |         | *    |         |          |
+| ⧀ Prev Looper                     | *       | *    |         |          |
+| ⧁ Next Looper                     | *       | *    |         |          |
+| ⌻ Arm Looper Track                | *       | *    |         |          |
+| ⌧ Mute Looper Track               | *       | *    |         |          |
+| ▣ Stop Looper                     | *       |      |         |          |
+| ∅ Clear All                       | *       |      |         |          |
+| ⊕ Add Looper                      | *       |      |         |          |
+| ◈ State (LOOPER1)                 |         | *    |         |          |
+| ◈ State (LOOPER2)                 |         | *    |         |          |
+| ◈ State (LOOPER3)                 |         | *    |         |          |
+| ◈ State (LOOPER4)                 |         | *    |         |          |
+| ◈ State (LOOPER5)                 |         | *    |         |          |
+| ◈ State (LOOPER6)                 |         | *    |         |          |
 
 ## Setlist Actions
 
-| Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
-|-----------------------------------|---------|------|---------|----------|-----|
-| ⏮️ Prev Song                       | *       | *    |         |          |  33 |
-| ⏭️  Next Song                      | *       | *    |         |          |  34 |
-| ▶️ Launch setlist Song             | *       |      |         |          |  44 |
-| ▶️Ⓠ Launch setlist Song No Q       | *       |      |         |          |  45 |
+| Actions                           | Buttons | LEDs | Sliders | Encoders |
+|-----------------------------------|---------|------|---------|----------|
+| ⏮️ Prev Song                       | *       | *    |         |          |
+| ⏭️  Next Song                      | *       | *    |         |          |
+| ▶️ Launch setlist Song             | *       |      |         |          |
+| ▶️Ⓠ Launch setlist Song No Q       | *       |      |         |          |
 
 ## Variations Actions
 
-| Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
-|-----------------------------------|---------|------|---------|----------|-----|
-| ⍇ Prev Device                     | *       |      |         |          |  65 |
-| ⍈ Next Device                     | *       |      |         |          |  66 |
-| ⌃ Prev Variation                  | *       |      |         |          |  67 |
-| ⌵ Next Variation                  | *       |      |         |          |  68 |
-| ▹ Launch Variation                | *       |      |         |          |  69 |
-| ◦ Store Variation                 | *       |      |         |          |  70 |
-| ⌁ Randomize Macros                | *       |      |         |          |  71 |
-| ↩︎ Recall Last Used                | *       |      |         |          |  72 |
+| Actions                           | Buttons | LEDs | Sliders | Encoders |
+|-----------------------------------|---------|------|---------|----------|
+| ⍇ Prev Device                     | *       |      |         |          |
+| ⍈ Next Device                     | *       |      |         |          |
+| ⌃ Prev Variation                  | *       |      |         |          |
+| ⌵ Next Variation                  | *       |      |         |          |
+| ▹ Launch Variation                | *       |      |         |          |
+| ◦ Store Variation                 | *       |      |         |          |
+| ⌁ Randomize Macros                | *       |      |         |          |
+| ↩︎ Recall Last Used                | *       |      |         |          |
 
 ## Pages Actions
 
-| Actions                           | Buttons | LEDs | Sliders | Encoders | CC# |
-|-----------------------------------|---------|------|---------|----------|-----|
-| ⇆ Page 1/2                        | *       |      |         |          |  50 |
-| ⇆ Page 1/3                        | *       |      |         |          |  51 |
-| ↩ Prev Page                       | *       |      |         |          |  56 |
-| ↪ Next Page                       | *       |      |         |          |  57 |
+| Actions                           | Buttons | LEDs | Sliders | Encoders |
+|-----------------------------------|---------|------|---------|----------|
+| ⇆ Page 1/2                        | *       |      |         |          |
+| ⇆ Page 1/3                        | *       |      |         |          |
+| ↩ Prev Page                       | *       |      |         |          |
+| ↪ Next Page                       | *       |      |         |          |
 
 
 
 <p align=center>All CC messages are sent on Channel 16.</p>
 
+# Setup examples
+
+<a id="examples"></a>  
+<p align=center>Here are a few examples of configurations (click to zoom).</p>
+
+{% include gallery id="gallery_examples" %}
 
 #  For the Makers {#makers}
 
