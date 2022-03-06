@@ -133,16 +133,15 @@ gallery_looper:
 <h1>
   Setlists
   </h1>
-  <h3>Create Setlists for maximum efficiency</h3>
+  <h3>Optimize your live performance with Setlists</h3>
       <p align=center>You can create setlists by adding (SONG#) to a <b>Scene</b> or <b>Arrangement Marker</b> name<br>
       You will then be able to go to the next or previous song, and launch the selected song instantly. <br>
       <br>
+<img src="./assets/images/setlist_reduced1.gif"  width=650px/>
 <br>
-<img src="./assets/images/setlist_reduced1.gif" class="my_header2" width=150px/>
 <br>
-  Your setlist can be as long as you want. 
-  <br>
-  If you want to change the order of the songs or add or remove items, just update the corresponding (SONG#) tag.<br>
+  Your setlist can be as long as you want. <br>
+  You can easily re-organize your Setlist by updating the (SONG#) tags.<br>
   <a href="./ressources#setlists">More details</a>
   <br>
   <h1>
