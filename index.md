@@ -130,34 +130,32 @@ gallery_looper:
   open·control being Open Source, you can adapt the code to your own needs.</p>
 
 <br>
+  <h1>
+Looper integration
+</h1>
+<h3>open·control takes extra care of Live's Looper device</h3>
+  <p align=center><b>open·control easily detects your Loopers by their name.</b> You can then select and control each Looper individually and show its state with the LEDs.<br>
+  You can even monitor the state of 6 Loopers at the same time.<br>
+  <a href="./ressources#looper">More details</a></p>
+<br>
+<div >
+  <img src="./assets/images/looper_suroptimized.gif" class="my_header_2"/>
+</div>
+<br>
 <h1>
   Setlists
   </h1>
   <h3>Optimize your live performance with Setlists</h3>
-      <p align=center>You can create setlists by adding (SONG#) to a <b>Scene</b> or <b>Arrangement Marker</b> name<br>
+      <p align=center>You can easily create setlists of <b>Scenes</b> or <b>Arrangement Markers</b> by adding a tag to their name.<br>
       You will then be able to go to the next or previous song, and launch the selected song instantly. <br>
       <br>
 <img src="./assets/images/setlist_reduced1.gif"  width=650px/>
 <br>
 <br>
   Your setlist can be as long as you want. <br>
-  You can easily re-organize your Setlist by updating the (SONG#) tags.<br>
+  You can easily re-organize your Setlist by updating the tags.<br>
   <a href="./ressources#setlists">More details</a>
   <br>
-  <h1>
-Looper integration
-</h1>
-<h3>open·control takes extra care of Live's Looper device</h3>
-  <p align=center><b>open·control detects any Looper that has (LOOPER#) in its name.</b> You can then navigate through Loopers and control and monitor the state of each Looper individually.<br>
-  Another useful feature is that you can monitor the state of 6 Loopers simultaneously.<br>
-  <a href="./ressources#looper">More details</a></p>
-<br>
-
-<div >
-  <img src="./assets/images/looper_suroptimized.gif" class="my_header_2"/>
-
-</div>
-<br>
 <h1>
   Custom Actions
   </h1>
@@ -168,7 +166,6 @@ Looper integration
 <br>
 <img src="./assets/images/custom_action2.gif" width=650px/>
 <br>
-  <br>
 
 
 <h1>
