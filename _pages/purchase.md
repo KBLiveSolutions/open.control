@@ -57,6 +57,7 @@ permalink: /purchase/
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_viewcart_LG.gif" border="0" name="submit" alt="PayPal, le réflexe sécurité pour payer en ligne">
 <img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
 </form> -->
+<br>
+Sorry, out of stock
 </h3>
-<h2>Sorry, out of stock</h2>
 </html>
