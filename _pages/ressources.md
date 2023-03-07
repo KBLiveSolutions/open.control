@@ -4,7 +4,7 @@ permalink: /ressources/
 sidebar:
   nav: "sidebar"
 
-toc: true
+toc: false
 toc_label: "Page Contents"
 toc_sticky: true
 # toc_icon: "cog"
