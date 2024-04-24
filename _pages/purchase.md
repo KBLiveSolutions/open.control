@@ -9,8 +9,8 @@ permalink: /purchase/
 <h3 style="background-color:#FFFFFF ; border-radius: 20px ; border: 2px solid rgb(0, 0, 0);">· Pocket 69€·
 <br>
 
-<script src="https://gumroad.com/js/gumroad.js"></script>
-<a class="gumroad-button" href="https://gumroad.com/l/kweDo">· 69€/79€ ·</a>
+<!-- <script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gumroad.com/l/kweDo">· 69€/79€ ·</a> -->
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="background-color:#FFFFFF ; border-radius: 20px">
 <input type="hidden" name="cmd" value="_s-xclick">
