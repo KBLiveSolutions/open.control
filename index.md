@@ -20,7 +20,7 @@ feature_row:
     · USB<br>
     · Optional 3D-printed Cover<br></p>"
   url: "/purchase/"
-  btn_label: "Out of Stock"
+  btn_label: "69€"
   btn_class: "btn--inverse"
 
 - image_path: /assets/images/red_boxed.jpg
