@@ -7,6 +7,9 @@ permalink: /purchase/
 <br> -->
 <h1> Get open·control !</h1>
 <h3 style="background-color:#FFFFFF ; border-radius: 20px ; border: 2px solid rgb(0, 0, 0);">· Pocket 69€·
+<br>
+<!-- Sorry, out of stock -->
+
 <!-- <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gumroad.com/l/kweDo">· 69€/79€ ·</a> -->
 
@@ -31,12 +34,14 @@ permalink: /purchase/
 <!-- <script src="https://gumroad.com/js/gumroad.js"></script>
 <a class="gumroad-button" href="https://gumroad.com/l/phBcg">· 129€ ·</a></h3> -->
 
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="background-color:#FFFFFF ; border-radius: 20px">
+<!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" style="background-color:#FFFFFF ; border-radius: 20px">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="REJS44CDH6HXU">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1">
-</form>
+</form> -->
+<br>
+Sorry, out of stock
 </h3>
 <!-- <hr> -->
 <h3 style="background-color:#FFFFFF ; border-radius: 20px ; border: 2px solid rgb(0, 0, 0);">· Maker 59€·
