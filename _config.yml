@@ -15,6 +15,7 @@
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 include: ["_pages"]
 
+
 # Site Settings
 locale                   : "en-US"
 title                    : "open·control"

@@ -42,6 +42,7 @@ permalink: /purchase/
 <br>
 Sorry, out of stock
 </h3>
+
 <!-- <hr> -->
 <h3 style="background-color:#FFFFFF ; border-radius: 20px ; border: 2px solid rgb(0, 0, 0);">· Maker 59€·
 <!-- <script src="https://gumroad.com/js/gumroad.js"></script>
