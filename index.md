@@ -20,7 +20,7 @@ feature_row:
     · USB<br>
     · Optional 3D-printed Cover<br></p>"
   url: "/purchase/"
-  btn_label: "69€"
+  btn_label: "N/A"
   btn_class: "btn--inverse"
 
 - image_path: /assets/images/red_boxed.jpg
@@ -36,7 +36,7 @@ feature_row:
     · Robust plastic enclosure</p>
     "
   url: "/purchase/"
-  btn_label: "129€"
+  btn_label: "N/A"
   btn_class: "btn--inverse"
 
 - image_path: /assets/images/red_maker2.jpg
@@ -50,7 +50,7 @@ feature_row:
     · MIDI In/Out<br>
     · USB<br></p>"
   url: "/purchase/"
-  btn_label: "59€"
+  btn_label: "N/A"
   btn_class: "btn--inverse"
 
 feature_row2:
@@ -100,7 +100,8 @@ gallery_looper:
 <p align=center>
   <b>Pocket</b> is a lightweight desktop controler, <b>Boxed</b> is designed to be used with pedals, and <b>Maker</b> is for the hobbyist who wants to create his own enclosure.
 </p>
-
+<p align=center>
+  <h2>Sorry, we're out of stock at the moment ! :-(</h2> <br>
 <br>
 {% include feature_row %}
 
