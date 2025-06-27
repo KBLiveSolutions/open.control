@@ -1,10 +1,7 @@
 source "https://rubygems.org"
 
-# Gem principale GitHub Pages
-gem "github-pages", group: :jekyll_plugins
+# GitHub Pages gem - contient toutes les dépendances nécessaires
+gem "github-pages", "~> 231", group: :jekyll_plugins
 
-# Plugins Jekyll
+# Plugin requis pour le thème Minimal Mistakes
 gem "jekyll-include-cache", group: :jekyll_plugins
-
-# Ajout de webrick pour Ruby 3.0+
-gem "webrick", "~> 1.7"
